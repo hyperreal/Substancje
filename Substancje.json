@@ -1,0 +1,6199 @@
+{
+  "narkotyki": [
+    {
+      "nazwa": "marihuana",
+      "inna nazwa": [
+        "trawa",
+        "trawka",
+        "weed",
+        "ganja",
+        "gandzia",
+        "mj",
+        "sensi",
+        "baka"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "kannabinoidy",
+        "pochodzenie roślinne",
+        "THC"
+      ],
+      "odmiany": [
+        "marihuany",
+        "marihuanie",
+        "marihuanę",
+        "marihuaną",
+        "marihuano",
+        "trawy",
+        "trawie",
+        "trawą",
+        "trawę",
+        "trawki",
+        "trawką",
+        "trawce",
+        "trawkę",
+        "trawko",
+        "gandzi",
+        "gandzią",
+        "gandzię",
+        "gandzio",
+        "ganji",
+        "ganją",
+        "ganję",
+        "baki",
+        "baką",
+        "bakę",
+        "bako"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "haszysz",
+      "inna nazwa": [
+        "hasz",
+        "hash"
+      ],
+      "odmiany": [
+        "haszyszowi",
+        "haszyszem",
+        "haszyszu",
+        "haszu",
+        "haszem",
+        "haszowi",
+        "hashowi",
+        "hashu",
+        "hashem"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "kannabinoidy",
+        "pochodzenie roślinne",
+        "THC"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "opium",
+      "kategoria": [
+        "depresanty",
+        "opiaty",
+        "opioidy",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "benzydamina",
+      "inna nazwa": [
+        "3-(1-benzylo-1H-indazolo-3-yloksy)-N,N-dimetylopropano-1-amina",
+        "Benzydaminum",
+        "benza",
+        "cipacz"
+      ],
+      "odmiany": [
+        "benzydaminy",
+        "benzydaminę",
+        "benzydaminą",
+        "benzydaminie",
+        "benzydamin",
+        "benzydamino",
+        "benzę",
+        "benzy",
+        "benzie",
+        "benzą",
+        "cipacza",
+        "cipaczowi",
+        "cipaczu",
+        "cipaczem",
+        "cipaczami",
+        "cipaczach",
+        "cipaczom"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCCOC1=NN(C2=CC=CC=C21)CC3=CC=CC=C3"
+      ],
+      "nazwa generyczna": [
+        "Tantum Rosa"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "delirianty"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "eter dietylowy",
+      "inna nazwa": [
+        "eter etylowy",
+        "eter"
+      ],
+      "odmiany": [
+        "eterem dietylowym",
+        "eterowi dietylowemu",
+        "eterze dietylowym",
+        "eteru dietylowego",
+        "eterem",
+        "eterowi",
+        "eterze",
+        "eteru"
+      ],
+      "wzor chemiczny": [
+        "CCOCC"
+      ],
+      "kategoria": [
+        "inhalanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "butan",
+      "inna nazwa": [
+        "gaz do zapalniczek"
+      ],
+      "odmiany": [
+        "butanem",
+        "butanu",
+        "butanie",
+        "butanowi",
+        "gazu do zapalniczek",
+        "gazowi do zapalniczek",
+        "gazem do zapalniczek",
+        "gazie do zapalniczek"
+      ],
+      "wzor chemiczny": [
+        "CCCC"
+      ],
+      "kategoria": [
+        "inhalanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "tlenek diazotu",
+      "inna nazwa": [
+        "podtlenek azotu",
+        "gaz rozweselający",
+        "N2O"
+      ],
+      "odmiany": [
+        "tlenku diazotu",
+        "tlenkowi diazotu",
+        "tlenkiem diazotu",
+        "podtlenku azotu",
+        "podtlenkowi azotu",
+        "podtlenkiem azotu",
+        "gazu rozweselającego",
+        "gazowi rozwesalającemu",
+        "gazie rozweselającym",
+        "gazem rozweselającym"
+      ],
+      "wzor chemiczny": [
+        "N#[N+][O-]"
+      ],
+      "kategoria": [
+        "inhalanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "etanol",
+      "inna nazwa": [
+        "alkohol etylowy",
+        "hydroksyetan",
+        "alko",
+        "alkohol"
+      ],
+      "odmiany": [
+        "etanolu",
+        "etanolowi",
+        "etanolem",
+        "alkoholu",
+        "alkoholowi",
+        "alkoholem",
+        "alkohole",
+        "alkoholi",
+        "alkoholom",
+        "alkoholami",
+        "alkoholach",
+        "hydroksyetanowi",
+        "hydroksyetanu",
+        "hydroksyetanem"
+      ],
+      "wzor chemiczny": [
+        "CCO"
+      ],
+      "kategoria": [
+        "depresanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "THC",
+      "inna nazwa": [
+        "tetrahydrokannabinol",
+        "dronabinol",
+        "(6aR,10aR)-6a,7,8,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol"
+      ],
+      "odmiany": [
+        "tetrahydrokannabinolu",
+        "tetrahydrokannabinolem",
+        "tetrahydrokannabinolowi",
+        "dronabinolu",
+        "dronabinolowi",
+        "dronabinolem"
+      ],
+      "wzor chemiczny": [
+        "CCCCCC1=CC2=C(C3C=C(CCC3C(O2)(C)C)C)C(=C1)O"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "kokaina",
+      "inna nazwa": [
+        "metylobenzoiloekgonina",
+        "Cocainum",
+        "(1R,2R,3S,5S)-3-(benzoiloksy)-8-metylo-8-azabicyclo[3.2.1]oktano-2-karboksylan metylu",
+        "koks",
+        "koko"
+      ],
+      "odmiany": [
+        "kokainy",
+        "kokainie",
+        "kokainą",
+        "kokainę",
+        "kokaino",
+        "koksu",
+        "koksowi",
+        "koksem",
+        "koksie"
+      ],
+      "wzor chemiczny": [
+        "CN1C2CCC1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "alkaloidy",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "heroina",
+      "inna nazwa": [
+        "diacetylomorfina",
+        "diamorfina",
+        "hera",
+        "hel",
+        "helena",
+        "helupa",
+        "braun",
+        "brown sugar"
+      ],
+      "wzor chemiczny": [
+        "CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)C)CCN3C"
+      ],
+      "odmiany": [
+        "heroiny",
+        "heroinie",
+        "heroiną",
+        "heroinę",
+        "heroino",
+        "diacetylomorfiny",
+        "diacetylomorfinie",
+        "diacetylomorfinę",
+        "diacetylomorfiną",
+        "diamorfiny",
+        "diamorfiną",
+        "diamorfinę",
+        "diamorfinie",
+        "hery",
+        "herze",
+        "herą",
+        "herę",
+        "helu",
+        "helem",
+        "helowi",
+        "helenie",
+        "heleną",
+        "heleny",
+        "helenę",
+        "helupę",
+        "helupie",
+        "helupy",
+        "helupą",
+        "brauna",
+        "braunem",
+        "braunowi",
+        "braunie"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "kodeina",
+      "inna nazwa": [
+        "metylomorfina",
+        "koda",
+        "Codeinum",
+        "Codeini phosphas",
+        "3-metylomorfina",
+        "4,5-epoksy-3-metoksy-N-metylomorfina-7-en-6-ol"
+      ],
+      "odmiany": [
+        "kodeiny",
+        "kodeinie",
+        "kodeiną",
+        "kodeinę",
+        "kodeino",
+        "metylomorfiny",
+        "metylomorfinie",
+        "metylomorfiną",
+        "metylomorfinę",
+        "kody",
+        "kodą",
+        "kodę",
+        "kodzie"
+      ],
+      "wzor chemiczny": [
+        "CN1CC[C@]23C4=C5C=CC(OC)=C4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5"
+      ],
+      "nazwa generyczna": [
+        "Antidol",
+        "Thiocodin",
+        "Solpadeine",
+        "Ascodan"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy",
+        "opiaty",
+        "pochodzenie roślinne",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "morfina",
+      "inna nazwa": [
+        "Morphinum",
+        "morph",
+        "(5α,6α)-7,8-didehydro-4,5-epoksy-17-metylmorfinan-3,6-diol"
+      ],
+      "odmiany": [
+        "morfiny",
+        "morfinie",
+        "morfiną",
+        "morfinę",
+        "morfino"
+      ],
+      "wzor chemiczny": [
+        "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O"
+      ],
+      "nazwa generyczna": [
+        "Doltard",
+        "Morphini Sulfas",
+        "MST Continus",
+        "Sevredol"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy",
+        "opiaty",
+        "pochodzenie roślinne",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "fentanyl",
+      "inna nazwa": [
+        "Fentanylum",
+        "fent",
+        "N-fenylo-N-[1-(2-fenyloetylo)piperydyn-4-ylo]propanoamid"
+      ],
+      "odmiany": [
+        "fentanylu",
+        "fentanylem",
+        "fentanylowi",
+        "fenta",
+        "fentowi",
+        "fentem",
+        "fencie"
+      ],
+      "wzor chemiczny": [
+        "CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3"
+      ],
+      "nazwa generyczna": [
+        "Durogesic",
+        "Effentora",
+        "Fenta MX",
+        "Fentanyl Actavis",
+        "Fentanyl WZF",
+        "Instanyl",
+        "Matrifen",
+        "PecFent"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "buprenorfina",
+      "inna nazwa": [
+        "Buprenorphinum",
+        "bupra",
+        "(2S)-2-[17-(cyklopropylometylo)-4,5α-epoksy-3-hydroksy-6-metoksy-6α,14-etano-14α-morfinan-7α-ylo]-3,3-dimetylobutan-2-ol"
+      ],
+      "odmiany": [
+        "buprenorfiny",
+        "buprenorfinie",
+        "buprenorfiną",
+        "buprenorfinę",
+        "bupry",
+        "buprze",
+        "buprę",
+        "buprą"
+      ],
+      "wzor chemiczny": [
+        "C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O"
+      ],
+      "nazwa generyczna": [
+        "Bunondol",
+        "Transtec"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "butyr-fentanyl",
+      "inna nazwa": [
+        "Butyrfentanyl",
+        "B-F",
+        "N-fenylo-N-[1-(2-fenyloetylo)piperydyn-4-ylo]butanoamid"
+      ],
+      "odmiany": [
+        "butyr-fentanylu",
+        "butyr-fentanylowi",
+        "butyr-fentanylem",
+        "butyrfentanylu",
+        "butyrfentanylem",
+        "butyrfentanylowi"
+      ],
+      "wzor chemiczny": [
+        "CCCC(=O)N(C2CCN(CCc1ccccc1)CC2)c3ccccc3"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "oksykodon",
+      "inna nazwa": [
+        "Oxycodonum",
+        "eukodal",
+        "(5R,9R,13S,14S)-4,5α-epoksy-14-hydroksy-3-metoksy-17-metylomorfinan-6-on"
+      ],
+      "odmiany": [
+        "oksykodonu",
+        "oksykodonowi",
+        "oksykodonie",
+        "oksykodonem",
+        "eukodalu",
+        "eukodalem",
+        "eukodalowi"
+      ],
+      "wzor chemiczny": [
+        "O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C"
+      ],
+      "nazwa generyczna": [
+        "OxyContin",
+        "Oxydolor",
+        "OxyNorm",
+        "Reltebon"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "dezomorfina",
+      "inna nazwa": [
+        "dihydrodezoksymorfina",
+        "4,5-α-epoksy-17-metylomorfinan-3-ol",
+        "(4R,4aR,7aS,12bS)-3-metylo-2,4,4a,5,6,7,7a,13-oktahydro-1H-4,12-metanobenzofuro[3,2-e]izochinolin-9-ol"
+      ],
+      "odmiany": [
+        "dezomorfiny",
+        "dezomorfinie",
+        "dezomorfiną",
+        "dezomorfinę"
+      ],
+      "wzor chemiczny": [
+        "CN1CCC23C4CCCC2C1CC1=C3C(O4)=C(O)C=C1"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "dihydrokodeina",
+      "inna nazwa": [
+        "Dihydrocodeinum",
+        "DHC",
+        "4,5α-epoksy-3-metoksy-17-metylomorfinan-6α-ol"
+      ],
+      "odmiany": [
+        "dihydrokodeiny",
+        "dihydrokodeinie",
+        "dihydrokodeiną",
+        "dihydrokodeinę"
+      ],
+      "wzor chemiczny": [
+        "CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(CC4)O"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metadon",
+      "inna nazwa": [
+        "6-(dimetyloamino)-4,4-difenyloheptan-3-on"
+      ],
+      "odmiany": [
+        "metadonu",
+        "metadonem",
+        "metadonie",
+        "metadonowi"
+      ],
+      "wzor chemiczny": [
+        "CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2"
+      ],
+      "nazwa generyczna": [
+        "Methadone Hydrochloride Molteni"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "tramadol",
+      "inna nazwa": [
+        "trampek",
+        "(1R,2R)-2-[(dimetyloamino)metylo]-1-(3-metoksyfenylo)cykloheksan-1-ol"
+      ],
+      "wzor chemiczny": [
+        "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O"
+      ],
+      "odmiany": [
+        "tramadolu",
+        "tramadolowi",
+        "tramadolem",
+        "Tramalu",
+        "Tramalowi",
+        "Tramalem",
+        "Poltramu",
+        "Poltramem",
+        "Poltramie"
+      ],
+      "nazwa generyczna": [
+        "Adamon",
+        "Ethypharm Tramadol",
+        "Noax Uno",
+        "Oratram",
+        "Poltram",
+        "Tramal"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "mirystycyna",
+      "inna nazwa": [
+        "6-allylo-4-metoksybenzo[d][1,3]dioksol",
+        "myrystycyna"
+      ],
+      "odmiany": [
+        "mirystycyny",
+        "mirystycynie",
+        "mirystycyną",
+        "mirystycynę",
+        "myrystycyny",
+        "myrystycynie",
+        "myrystycyną",
+        "myrystycynę"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC(=CC2=C1OCO2)CC=C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "kwas ibotenowy",
+      "inna nazwa": [
+        "kwas (S)-2-amino-2-(3-okso-1,2-oksazol-5-ylo)octowy",
+        "α-(3-hydroksy-5-izooksazolylo)glicyna"
+      ],
+      "odmiany": [
+        "kwasu ibotenowego",
+        "kwasie ibotenowym",
+        "kwasowi ibotenowemu"
+      ],
+      "wzor chemiczny": [
+        "O=C1NOC([C@H](N)C(O)=O)=C1"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "alkaloidy",
+        "izoksazole"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "muscymol",
+      "inna nazwa": [
+        "muscimol",
+        "panteryna",
+        "(5-(aminometylo)-3-izoksazolol"
+      ],
+      "odmiany": [
+        "muscymolu",
+        "muscymolowi",
+        "muscymolem",
+        "muscimolu",
+        "muscimolowi",
+        "muscimolem"
+      ],
+      "wzor chemiczny": [
+        "C1=C(ONC1=O)CN"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "alkaloidy",
+        "izoksazole"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "salwinoryna A",
+      "inna nazwa": [
+        "salwinoryna",
+        "salwinoryn A"
+      ],
+      "wzor chemiczny": [
+        "CC(O[C@H]1C[C@@H](C(OC)=O)[C@]2(C)CC[C@@]3([H])C(O[C@H](C4=COC=C4)C[C@]3(C)[C@@]2([H])C1=O)=O)=O"
+      ],
+      "odmiany": [
+        "salwinoryny",
+        "salwinoryną",
+        "salwinorynę",
+        "salwinorynie"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "pochodzenie roślinne",
+        "dysocjanty",
+        "dwuterpeny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "harmalina",
+      "inna nazwa": [
+        "4,9-dihydro-7-metoksy-1-metylo-3H-pirydo[3,4-b]indol",
+        "3,4-dihydroharmina",
+        "7-metoksyharmalan"
+      ],
+      "odmiany": [
+        "harmalinie",
+        "harmaliny",
+        "harmalinę",
+        "harmaliną"
+      ],
+      "wzor chemiczny": [
+        "CC1=C2C(=C3C=CC(=CC3=N2)OC)CCN1"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "pochodzenie roślinne",
+        "IMAO",
+        "beta-karboliny",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "harmina",
+      "inna nazwa": [
+        "7-metoksy-1-metylo-9H- pirydo[3,4-b]indol",
+        "banisteryna"
+      ],
+      "odmiany": [
+        "harminie",
+        "harminy",
+        "harminę",
+        "harminą"
+      ],
+      "wzor chemiczny": [
+        "CC1=NC=CC2=C1NC3=C2C=CC(=C3)OC"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "pochodzenie roślinne",
+        "IMAO",
+        "beta-karboliny",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DMT",
+      "inna nazwa": [
+        "dimetylotryptamina",
+        "N,N-dimetylotryptamina",
+        "3-[2-(dimetyloamino)etylo]indol"
+      ],
+      "odmiany": [
+        "dimetylotryptaminy",
+        "dimetylotryptaminą",
+        "dimetylotryptaminę"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCC1=CNC2=CC=CC=C21"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "pochodzenie roślinne",
+        "indole",
+        "tryptaminy",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DPT",
+      "inna nazwa": [
+        "dipropylotryptamina",
+        "N,N-dipropylotryptamina",
+        "3-[2-(dipropyloamino)etylo]indol"
+      ],
+      "odmiany": [
+        "dipropylotryptaminy",
+        "dipropylotryptaminą",
+        "dipropylotryptaminę"
+      ],
+      "wzor chemiczny": [
+        "CCCN(CCC)CCC1=CNC2=CC=CC=C21"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DiPT",
+      "inna nazwa": [
+        "diizopropylotryptamina",
+        "N-[2-(1H-indol-3-ilo)etylo]-N-propano-2-ylopropano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(C)N(CCC1=CNC2=CC=CC=C21)C(C)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DET",
+      "inna nazwa": [
+        "dietylotryptamina",
+        "N,N-dietylo-2-(1H-indol-3-ilo)etanamina"
+      ],
+      "wzor chemiczny": [
+        "CCN(CC)CCC1=CNC2=CC=CC=C21"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MiPT",
+      "inna nazwa": [
+        "metyloizopropylotryptamina",
+        "N-izopropylo-N-metylotryptamina",
+        "N-[2-(1H-indol-3-ilo)etylo]-N-metylopropano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(C)N(C)CCc2cnc1ccccc12"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "psylocybina",
+      "inna nazwa": [
+        "4-PO-DMT",
+        "diwodorofosforan 3-(2-dimetyloaminoetylo)-4-indolilu",
+        "4-fosforyloksy-N,N-dimetylotryptamina"
+      ],
+      "odmiany": [
+        "psylocybiny",
+        "psylocybiną",
+        "psylocybinę",
+        "psylocybinie"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "psylocyna",
+      "inna nazwa": [
+        "4-HO-DMT",
+        "3-(2-dimetyloaminoetylo)-4-hydroksyindol"
+      ],
+      "odmiany": [
+        "psylocyny",
+        "psylocyną",
+        "psylocynę",
+        "psylocynie"
+      ],
+      "wzor chemiczny": [
+        "Oc1cccc2c1c(cn2)CCN(C)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "baeocystyna",
+      "inna nazwa": [
+        "4-PO-MT",
+        "diwodorofosforan 3-[2-(metylamino)etylo]-1H-indo-4-ilu",
+        "4-fosfonyloksy-N-metylotryptamina"
+      ],
+      "odmiany": [
+        "baeocystyny",
+        "baeocystynie",
+        "baeocystyną",
+        "baeocystynę"
+      ],
+      "wzor chemiczny": [
+        "CNCCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "bufotenina",
+      "inna nazwa": [
+        "5-OH-DMT",
+        "5-hydroksy-N,N-dimetylotryptamina",
+        "3-(2-dimetyloetyloamino)-1H-indol-5-ol",
+        "3-(2-dimetyloetyloamino)-5-hydroksyindol",
+        "bufo"
+      ],
+      "odmiany": [
+        "bufoteniny",
+        "bufoteninie",
+        "bufoteninę",
+        "bufoteniną"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCC1=CNC2=C1C=C(C=C2)O"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "alkaloidy",
+        "indole",
+        "tryptaminy",
+        "pochodzenie roślinne",
+        "pochodzenie zwierzęce"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-HO-MET",
+      "inna nazwa": [
+        "metocyna",
+        "mahomet",
+        "4-hydroksy-N-metylo-N-etylotryptamina"
+      ],
+      "odmiany": [
+        "metocyny",
+        "metocynie",
+        "metocyną",
+        "metocynę",
+        "mahometa",
+        "mahometowi",
+        "mahometem",
+        "mahomecie"
+      ],
+      "wzor chemiczny": [
+        "CCN(C)CCc2cnc1cccc(O)c12"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-Aco-DMT",
+      "inna nazwa": [
+        "psylacetyna",
+        "4-Acetoksy-N,N-dimetylotryptamina",
+        "O-acetylopsylocyna",
+        "43-(2-dimetyloaminoetylo)-4-acetyloksyindol",
+        "4-Acetoxy-DMT"
+      ],
+      "odmiany": [
+        "psylacetyny",
+        "psylacetynie",
+        "psylacetyną",
+        "psylacetynę"
+      ],
+      "wzor chemiczny": [
+        "CC(=O)Oc2cccc1ncc(CCN(C)C)c122"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-HO-MiPT",
+      "inna nazwa": [
+        "miprocyna",
+        "4-hydroksy-N-metylo-N-izopropylotryptamina",
+        "-[2-(4-hydroksy-1H-indol-3-ilo)etylo]-N-metylopropano-2-amina"
+      ],
+      "odmiany": [
+        "miprocyny",
+        "miprocynie",
+        "miprocyną",
+        "miprocynę"
+      ],
+      "wzor chemiczny": [
+        "CN(C(C)C)CCC2=CNC1=CC=CC(O)=C12"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-AcO-DIPT",
+      "inna nazwa": [
+        "4-acetoksy-DIPT",
+        "4-Acetoksy-N,N-diizopropylotryptamina",
+        "N-[2-(4-acetoksy-1H-indol-3-ilo)etylo]-N-propan-2-ylopropano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(C)N(CCc2cnc1cccc(OC(C)=O)c12)C(C)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-HO-DET",
+      "inna nazwa": [
+        "etocyna",
+        "N,N-Dietylo-4-hydroksytryptamina",
+        "3-[2-(dietyloamino)etylo]indol-4-ol"
+      ],
+      "wzor chemiczny": [
+        "Oc1cccc2c1c(cn2)CCN(CC)CC"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AMT",
+      "inna nazwa": [
+        "α-metylotryptamina",
+        "3-(2-aminopropylo)indol",
+        "indopan"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CNC2=C1C=CC=C2"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "stymulanty",
+        "IMAO"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-MeO-AMT",
+      "inna nazwa": [
+        "1-(5-metoksy-1H-indol-3-ilo)propano-2-amina",
+        "5-metoksy-α-metylotryptamina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CNC2=C1C=C(C=C2)OC)N"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "stymulanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-MeO-DMT",
+      "inna nazwa": [
+        "5-metoksy-N,N-dimetylotryptamina",
+        "2-(5-metoksy-1H-indol-3-ilo)-N,N-dimetyloetanoamina"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCC1=CNC2=C1C=C(C=C2)OC"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "pochodzenie roślinne",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-MeO-DIPT",
+      "inna nazwa": [
+        "5-metoksy-N,N-diizopropylometylotryptamina",
+        "Foxy",
+        "N-[2-(5-metoksy-1H-indol-3-ilo)etylo]-N-propan-2-ylopropano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(C)N(CCC1=CNC2=C1C=C(C=C2)OC)C(C)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "afrodyzjaki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-MeO-DALT",
+      "inna nazwa": [
+        "5-metyloksy-diallilotryptamina",
+        "N-[2-(5-metoksy-1H-indol-3-ilo)etylo]-N-prop-2-enyloprop-2-eno-1-amina"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC2=C(C=C1)NC=C2CCN(CC=C)CC=C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "LSD",
+      "inna nazwa": [
+        "LSD-25",
+        "Dietyloamid kwasu D-lizergowego",
+        "lizergiD",
+        "N,N-dietylo-D-lizergamid",
+        "dietyloamid kwasu 9,10-didehydro-6-metyloergolino-8β-karboksylowego",
+        "kwasa"
+      ],
+      "wzor chemiczny": [
+        "CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "lizergamidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "LSA",
+      "inna nazwa": [
+        "ergina",
+        "Amid kwasu D-lizergowego",
+        "-6aR,9R)-7-metylo-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]chinolino-9-karboksamid"
+      ],
+      "odmiany": [
+        "erginy",
+        "erginie",
+        "erginą",
+        "erginę"
+      ],
+      "wzor chemiczny": [
+        "CN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "lizergamidy",
+        "pochodzenie roślinne",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AL-LAD",
+      "inna nazwa": [
+        "6-allylo-6-nor-LSD",
+        "alladyn"
+      ],
+      "wzor chemiczny": [
+        "CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)CC=C"
+      ],
+      "odmiany": [
+        "alladyna",
+        "alladynie",
+        "alladynem",
+        "allada"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "lizergamidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "LSZ",
+      "inna nazwa": [
+        "(8β)-8- {[(2S,4S)- 2,4-dimetyloazetydyn- 1-ylo] karbonylo}- 6-metylo- 9,10- didehydroergolina"
+      ],
+      "wzor chemiczny": [
+        "CC1CC(N1C(=O)C2CN(C3CC4=CNC5=CC=CC(=C45)C3=C2)C)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "lizergamidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "ALD-52",
+      "inna nazwa": [
+        "N-acetylo-LSD",
+        "1-acetylo-N,N-dietylolizergamid"
+      ],
+      "wzor chemiczny": [
+        "CCN(CC)C(=O)C1CN(C2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "lizergamidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "PRO-LAD",
+      "inna nazwa": [
+        "N,N-dietyloamid kwasu 6-propylonorlizergowego",
+        "6-propylo-nor-LSD"
+      ],
+      "wzor chemiczny": [
+        "CCCN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N(CC)CC"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "lizergamidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "GBL",
+      "inna nazwa": [
+        "gammabutyrolakton",
+        "dihydro 2(3H)-furanon",
+        "giebel",
+        "gwałciocha",
+        "gebels"
+      ],
+      "wzor chemiczny": [
+        "O=C1CCCO1"
+      ],
+      "odmiany": [
+        "gieblowi",
+        "giebla",
+        "gieblem",
+        "gieblu",
+        "gebelsowi",
+        "gebelsem",
+        "gebelsa",
+        "gebelsie",
+        "gammabutyrolaktonem",
+        "gammabutyrolaktonu",
+        "gammabutyrolaktonie",
+        "gwałciochy",
+        "gwałciochą",
+        "gwałciochę",
+        "gwałciosze"
+      ],
+      "kategoria": [
+        "depresanty",
+        "laktony",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "GHB",
+      "inna nazwa": [
+        "kwas 4-hydroksybutanowy",
+        "kwas 4-hydroksymasłowy",
+        "γ-hydroksymaślan",
+        "pigułka gwałtu"
+      ],
+      "wzor chemiczny": [
+        "C(CCC(O)=O)O"
+      ],
+      "kategoria": [
+        "depresanty",
+        "laktony",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "zolpidem",
+      "inna nazwa": [
+        "N,N-dimetylo-2-(6-metylo-2-p-toliloimidazo[1,2-a]pirydyn-3-ylo)acetamid",
+        "zolpi"
+      ],
+      "odmiany": [
+        "zolpidemu",
+        "zolpidemowi",
+        "zolpidemu",
+        "zolpidemem",
+        "zolpidemie"
+      ],
+      "wzor chemiczny": [
+        "O=C(CC1=C(C2=CC=C(C)C=C2)N=C3C=CC(C)=CN13)N(C)C"
+      ],
+      "nazwa generyczna": [
+        "Apo-Zolpin",
+        "Hypnogen",
+        "Nasen",
+        "Noxizo",
+        "Onirex",
+        "Polsen",
+        "Sanva",
+        "Stilnox",
+        "Xentic",
+        "Zolpic",
+        "ZolpiGen",
+        "Zolsana",
+        "Zoratio"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "zopiklon",
+      "inna nazwa": [
+        "4-metylopiperazyno-1-karboksylan 6-(5-chloropirydyn-2-ylo)-7-okso-6,7-dihydro-5H-pirrolo[3,4-b]pyrazyn-5-ylu"
+      ],
+      "odmiany": [
+        "zopiklonu",
+        "zopiklonem",
+        "zopiklonowi",
+        "zopiklonem",
+        "zopiklonie"
+      ],
+      "wzor chemiczny": [
+        "CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl"
+      ],
+      "nazwa generyczna": [
+        "Senzop",
+        "Zopiratio",
+        "Dobroson",
+        "Imovane",
+        "Zimovane"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "baklofen",
+      "inna nazwa": [
+        "baclofen",
+        "Baclofenum",
+        "Kwas (3RS)-4-amino-3-(4-chlorofenylo)butanowy",
+        "baklo"
+      ],
+      "odmiany": [
+        "baklofenu",
+        "baklofenowi",
+        "baklofenem",
+        "baklofenu",
+        "baklofenie",
+        "baclofenu",
+        "baclofenowi",
+        "baclofenem",
+        "baclofenu",
+        "baclofenie"
+      ],
+      "wzor chemiczny": [
+        "C1=CC(=CC=C1C(CC(=O)O)CN)Cl"
+      ],
+      "nazwa generyczna": [
+        "Baclofen Polpharma",
+        "Kemstro",
+        "Lioresal"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "alprazolam",
+      "inna nazwa": [
+        "8-chloro-1-metylo-6-fenylo-4H-[1,2,4]triazolo[4,3-a]-[1,4]-benzodiazepina",
+        "Alprazolamum",
+        "alpra"
+      ],
+      "odmiany": [
+        "alprazolamu",
+        "alprazolamie",
+        "alprazolamem",
+        "alprazolamowi",
+        "alpry",
+        "alprze",
+        "alprą",
+        "alprę",
+        "Xanaxu",
+        "Xanaxowi",
+        "Xanaxem",
+        "Xanaxie",
+        "Afobamu",
+        "Afobamowi",
+        "Afobamem",
+        "Afobamie",
+        "Zomirenowi",
+        "Zomirenem",
+        "Zomirenie",
+        "Zomirenu"
+      ],
+      "wzor chemiczny": [
+        "CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4"
+      ],
+      "nazwa generyczna": [
+        "Afobam",
+        "Alpragen",
+        "Alprazomerck",
+        "Alprox",
+        "Neurol",
+        "Neurol SR",
+        "Xanax",
+        "Xanax SR",
+        "Zomiren",
+        "Zomiren SR"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "klonazepam",
+      "inna nazwa": [
+        "6-(2-chlorofenylo)-9-nitro-2,5-diazabicyklo[5.4.0]undeka-5,8,10,12-tetraen-3-on",
+        "Clonazepamum",
+        "klon",
+        "klony"
+      ],
+      "odmiany": [
+        "klonazepamu",
+        "klonazepamowi",
+        "klonazepamem",
+        "klonazepamie",
+        "klonów",
+        "klonom",
+        "klonami",
+        "klonach",
+        "klonowi",
+        "klonem",
+        "klona",
+        "klonie"
+      ],
+      "wzor chemiczny": [
+        "C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl"
+      ],
+      "nazwa generyczna": [
+        "Clonazepamum TZF"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "lorazepam",
+      "inna nazwa": [
+        "lorki",
+        "Lorazepamum"
+      ],
+      "odmiany": [
+        "lorazepamu",
+        "lorazepamowi",
+        "lorazepamem",
+        "lorazepamie",
+        "lorkami",
+        "lorków",
+        "lorkach",
+        "lorkom",
+        "Lorafenu",
+        "Lorafenem",
+        "Lorafenowi",
+        "Lorafenie"
+      ],
+      "wzor chemiczny": [
+        "C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl"
+      ],
+      "nazwa generyczna": [
+        "Lorafen"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "diazepam",
+      "inna nazwa": [
+        "7-chloro-5-fenylo-1-metylo-3H-1,4-benzodiazepin-2-on",
+        "Diazepamum",
+        "rolki"
+      ],
+      "odmiany": [
+        "diazepamu",
+        "diazepamem",
+        "diazepamowi",
+        "diazepamie",
+        "rolkom",
+        "rolek",
+        "rolków",
+        "rolkami",
+        "rolkach"
+      ],
+      "wzor chemiczny": [
+        "CN1C2=C(C=C(Cl)C=C2)C(C3=CC=CC=C3)=NCC1=O"
+      ],
+      "nazwa generyczna": [
+        "Relanium",
+        "Relsed",
+        "Neorelium"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "estazolam",
+      "inna nazwa": [
+        "8-chloro-6-fenylo-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepina",
+        "Estazolamum"
+      ],
+      "odmiany": [
+        "estazolamu",
+        "estazolamowi",
+        "estazolamem",
+        "estazolamie"
+      ],
+      "wzor chemiczny": [
+        "C1C2=NN=CN2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4"
+      ],
+      "nazwa generyczna": [
+        "Estazolam TZF",
+        "Estazolam Polfarmex"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "etizolam",
+      "inna nazwa": [
+        "4-(2-chlorofenylo)-2-etylo-9-metylo-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina",
+        "eti"
+      ],
+      "odmiany": [
+        "etizolamu",
+        "etizolamem",
+        "etizolamie",
+        "etizolamowi"
+      ],
+      "wzor chemiczny": [
+        "CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4Cl)C"
+      ],
+      "nazwa generyczna": [
+        "Etilaam",
+        "Depas",
+        "Pasaden"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "nitrazepam",
+      "inna nazwa": [
+        "5-fenylo-7-nitro-2,3-dihydro-1H-1,4-benzodiazepin-2-on",
+        "nitra"
+      ],
+      "odmiany": [
+        "nitrazepamu",
+        "nitrazepamem",
+        "nitrazepamowi",
+        "nitrazepamie"
+      ],
+      "wzor chemiczny": [
+        "C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3"
+      ],
+      "nazwa generyczna": [
+        "Nitrazepam GSK"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "tetrazepam",
+      "inna nazwa": [
+        "7-chloro-5-(cykloheks-1-enylo)-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on",
+        "tetra"
+      ],
+      "odmiany": [
+        "tetrazepamu",
+        "tetrazepamem",
+        "tetrazepamowi",
+        "tetrazepamie"
+      ],
+      "wzor chemiczny": [
+        "CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3"
+      ],
+      "nazwa generyczna": [
+        "Miozepam",
+        "Myolastan",
+        "Myopam",
+        "Tetraratio"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "temazepam",
+      "inna nazwa": [
+        "7-chloro-3-hydroksy-1-metylo-5-fenylo-2,3-dihydro-1H-1,4-benzodiazepin-2-on",
+        "Temazepamum"
+      ],
+      "odmiany": [
+        "temazepamu",
+        "temazepamem",
+        "temazepamowi",
+        "temazepamie"
+      ],
+      "wzor chemiczny": [
+        "CN1C2=C(C=C(Cl)C=C2)C(=NC(O)C1=O)C1=CC=CC=C1"
+      ],
+      "nazwa generyczna": [
+        "Signopam"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "oksazepam",
+      "inna nazwa": [
+        "7-chloro-5-fenylo-3-hydroksy-1,3-dihydro-2H-1,4-benzodiazepin-2-on",
+        "Oxazepamum"
+      ],
+      "odmiany": [
+        "oksazepamu",
+        "oksazepamem",
+        "oksazepamowi",
+        "oksazepamie"
+      ],
+      "wzor chemiczny": [
+        "C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O"
+      ],
+      "nazwa generyczna": [
+        "Oksazepam TZF",
+        "Oxazepam Espefa"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "fenazepam",
+      "inna nazwa": [
+        "7-bromo-5-(2-chlorofenylo)-1,3-dihydro-2H-1,4-benzodiazepin-2-on",
+        "Phenazepamum"
+      ],
+      "odmiany": [
+        "fenazepamu",
+        "fenazepamem",
+        "fenazepamowi",
+        "fenazepamie"
+      ],
+      "wzor chemiczny": [
+        "C1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=C3Cl"
+      ],
+      "nazwa generyczna": [
+        "Феназепам"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "flunitrazepam",
+      "inna nazwa": [
+        "5-(2-fluorofenylo)-1-metylo-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-on",
+        "Flunitrazepamum"
+      ],
+      "odmiany": [
+        "flunitrazepamu",
+        "flunitrazepamem",
+        "flunitrazepamowi",
+        "flunitrazepamie"
+      ],
+      "wzor chemiczny": [
+        "CN1C2=C(C=C(C=C2)[N+]([O-])=O)C(=NCC1=O)C1=C(F)C=CC=C1"
+      ],
+      "nazwa generyczna": [
+        "Rohypnol"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "fenobarbital",
+      "inna nazwa": [
+        "Phenobarbitalum",
+        "luminal",
+        "5-etylo-5-fenylopirymidyno-2,4,6(1H,3H,5H)-trion"
+      ],
+      "odmiany": [
+        "fenobarbitalu",
+        "fenobarbitalem",
+        "fenobarbitalowi",
+        "luminalu",
+        "luminalem",
+        "luminalowi"
+      ],
+      "wzor chemiczny": [
+        "CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2"
+      ],
+      "nazwa generyczna": [
+        "Phenobarbitalum Natrium",
+        "Luminalum"
+      ],
+      "kategoria": [
+        "depresanty",
+        "barbiturany",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "heksobarbital",
+      "inna nazwa": [
+        "(5RS)-5-(cykloheks-1-enylo)-1,5-dimetylopirymidyno-2,4,6(1H,3H,5H)-trion",
+        "Hexobarbitalum"
+      ],
+      "odmiany": [
+        "heksobarbitalu",
+        "heksobarbitalem",
+        "heksobarbitalowi"
+      ],
+      "wzor chemiczny": [
+        "CC1(C(=O)NC(=O)N(C1=O)C)C2=CCCCC2"
+      ],
+      "nazwa generyczna": [
+        "Heksobarbital"
+      ],
+      "kategoria": [
+        "depresanty",
+        "barbiturany",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "allobarbital",
+      "inna nazwa": [
+        "kwas 5,5-diallilobarbiturowy",
+        "Allobarbitalum"
+      ],
+      "odmiany": [
+        "allobarbitalu",
+        "allobarbitalem",
+        "allobarbitalowi"
+      ],
+      "wzor chemiczny": [
+        "C=CCC1(C(=O)NC(=O)NC1=O)CC=C"
+      ],
+      "nazwa generyczna": [
+        "Pabialgin"
+      ],
+      "kategoria": [
+        "depresanty",
+        "barbiturany",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "barbital",
+      "inna nazwa": [
+        "Barbitalum",
+        "weronal",
+        "5,5-dietylopirymidyno-2,4,6(1H,3H,5H)-trion"
+      ],
+      "odmiany": [
+        "barbitalu",
+        "barbitalem",
+        "barbitalowi",
+        "weronalu",
+        "weronalem",
+        "weronalowi"
+      ],
+      "wzor chemiczny": [
+        "C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O"
+      ],
+      "nazwa generyczna": [
+        "Veronalum",
+        "Barbitalum Natrium"
+      ],
+      "kategoria": [
+        "depresanty",
+        "barbiturany",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "tiopental",
+      "inna nazwa": [
+        "pentotal sodu"
+      ],
+      "wzor chemiczny": [
+        "CCCC(C)C1(C(=O)NC(=S)NC1=O)CC"
+      ],
+      "nazwa generyczna": [
+        "Tiopental",
+        "Intraval",
+        "Nesdonal",
+        "Pentothal",
+        "Trapanal"
+      ],
+      "kategoria": [
+        "depresanty",
+        "barbiturany",
+        "modulatory GABA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "mianseryna",
+      "inna nazwa": [
+        "(±)-2-metylo-1,2,3,4,10,14b-heksahydrodibenzo[c,f]pirazyno[1,2-a]azepina"
+      ],
+      "odmiany": [
+        "mianseryną",
+        "mianserynę",
+        "mianserynie",
+        "mianseryny"
+      ],
+      "wzor chemiczny": [
+        "c42c(N3C(c1ccccc1C2)CN(C)CC3)cccc4"
+      ],
+      "nazwa generyczna": [
+        "Deprexolet",
+        "Lerivon",
+        "Miansec",
+        "Miansegen",
+        "Miansemerck",
+        "Mianserin",
+        "Norserin"
+      ],
+      "kategoria": [
+        "antydepresanty"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "sertralina",
+      "inna nazwa": [
+        "(1S)-cis-4-(3,4-dichlorofenylo)-1,2,3,4-tetrahydro-N-metylo-1-naftalenoamina"
+      ],
+      "odmiany": [
+        "sertraliny",
+        "sertralinę",
+        "sertraliną",
+        "sertralinie"
+      ],
+      "wzor chemiczny": [
+        "CNC1CCC(C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl"
+      ],
+      "nazwa generyczna": [
+        "Asentra",
+        "Asertin",
+        "Luxeta",
+        "Miravil",
+        "Sertagen",
+        "SertaHEXAL",
+        "Sertraline Arrow",
+        "Sertranorm",
+        "Setaloft",
+        "Setaratio",
+        "Stimuloton",
+        "Zoloft",
+        "Zotral"
+      ],
+      "kategoria": [
+        "antydepresanty",
+        "SSRI"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "paroksetyna",
+      "inna nazwa": [
+        "(3S,4R)-3-([benzo[d][1,3]diokso-5-iloksy]metylo)-4-(4-fluorofenylo)piperydyna"
+      ],
+      "wzor chemiczny": [
+        "C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4"
+      ],
+      "odmiany": [
+        "paroksetyny",
+        "paroksetynę",
+        "paroksetyną",
+        "paroksetynie"
+      ],
+      "nazwa generyczna": [
+        "Arketis",
+        "ParoGen",
+        "Paroxetine",
+        "Aurobindo",
+        "Paroxinor",
+        "Paxtin",
+        "Rexetin",
+        "Seroxat",
+        "Xetanor"
+      ],
+      "kategoria": [
+        "antydepresanty",
+        "SSRI"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "fluoksetyna",
+      "inna nazwa": [
+        "(±)-N-metylo-3-fenylo-3-[4-(trifluorometylo)fenoksy]propano-1-amina"
+      ],
+      "odmiany": [
+        "fluoksetyny",
+        "fluoksetynę",
+        "fluoksetyną",
+        "fluoksetynie",
+        "prozacu",
+        "prozacem",
+        "prozacowi",
+        "prozakowi",
+        "prozakiem",
+        "prozakowi"
+      ],
+      "wzor chemiczny": [
+        "CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F"
+      ],
+      "nazwa generyczna": [
+        "Prozac",
+        "Andepin",
+        "Bioxetin",
+        "Deprexetin",
+        "Fluoksetyna EGIS",
+        "Fluoxetin Polpharma",
+        "Fluoxetine Vitabalans",
+        "Fluxemed",
+        "Seronil"
+      ],
+      "kategoria": [
+        "antydepresanty",
+        "SSRI"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "citalopram",
+      "inna nazwa": [
+        "1-[3-(dimetyloamino)propylo]-1-(4-fluorofenylo)-3H-2-benzofurano-5-karbonitryl"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F"
+      ],
+      "nazwa generyczna": [
+        "Aurex",
+        "Cipramil",
+        "Citabax",
+        "Cital",
+        "Citalopram Bluefish",
+        "Citalopram Teva",
+        "Citalopram Vitabalans",
+        "Citaxin",
+        "Citronil",
+        "Oropram",
+        "Pram"
+      ],
+      "kategoria": [
+        "antydepresanty",
+        "SSRI"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "wenlafaksyna",
+      "inna nazwa": [
+        "1-[2-(dimetyloamino)-1-(4-metoksyfenylo)etylo]cykloheksanol"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O"
+      ],
+      "nazwa generyczna": [
+        "Efevelon SR",
+        "Alventa",
+        "Axyven",
+        "Efectin ER",
+        "Faxigen XL",
+        "Faxolet ER",
+        "Jarvis",
+        "Lafactin",
+        "Oriven",
+        "Prefaxine",
+        "Symfaxin ER",
+        "Velafax",
+        "Velaxin",
+        "Venlectine"
+      ],
+      "kategoria": [
+        "antydepresanty",
+        "SNRI"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "dimenhydrynat",
+      "inna nazwa": [
+        "Dimenhydrinatum",
+        "8-chloroteofilinian N-(2-difenylometoksyetylo)-N,N-dimetyloamoniowy"
+      ],
+      "odmiany": [
+        "dimenhydrynatu",
+        "dimenhydrynatem",
+        "dimenhydrynatowi",
+        "dimenhydrynacie",
+        "Aviomarinu",
+        "Aviomarinem",
+        "Aviomarinowi",
+        "Aviomarinie"
+      ],
+      "wzor chemiczny": [
+        "CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Cl.CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2"
+      ],
+      "nazwa generyczna": [
+        "Aviomarin",
+        "Travelgum"
+      ],
+      "kategoria": [
+        "antyhistaminy",
+        "delirianty"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "hydroksyzyna",
+      "inna nazwa": [
+        "Hydroxyzinum",
+        "2-(2-{4-[(4-chlorofenylo)(fenylo)metylo]piperazyno-1-ylo}etoksy)etanol"
+      ],
+      "odmiany": [
+        "hydroksyzyną",
+        "hydroksyzynę",
+        "hydroksyzyny",
+        "hydroksyzynie"
+      ],
+      "wzor chemiczny": [
+        "C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl"
+      ],
+      "nazwa generyczna": [
+        "Atarax",
+        "Hydroxyzinum"
+      ],
+      "kategoria": [
+        "antyhistaminy",
+        "delirianty"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "prometazyna",
+      "inna nazwa": [
+        "N,N-dimetylo-1-(10H-fenotiazyno-10-ylo)propano-2-amina"
+      ],
+      "odmiany": [
+        "prometazyną",
+        "prometazynę",
+        "prometazynie",
+        "prometazyny"
+      ],
+      "wzor chemiczny": [
+        "CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C"
+      ],
+      "nazwa generyczna": [
+        "Polfergan",
+        "Diphergan"
+      ],
+      "kategoria": [
+        "antyhistaminy",
+        "delirianty"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "difenhydramina",
+      "inna nazwa": [
+        "Diphenhydraminum",
+        "2-(difenylometoksy)-N,N-dimetyloetanoamina"
+      ],
+      "odmiany": [
+        "difenhydraminy",
+        "difenhydraminą",
+        "difenhydraminę",
+        "difenhydraminie"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2"
+      ],
+      "nazwa generyczna": [
+        "APAP Noc",
+        "Betadrin"
+      ],
+      "kategoria": [
+        "antyhistaminy",
+        "delirianty"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "JWH-018",
+      "inna nazwa": [
+        "AM-678",
+        "naftalen-1-ylo-(1-pentyloindol-3-ilo)metanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=CC=CC=C43"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "UR-144",
+      "inna nazwa": [
+        "urka",
+        "uerka",
+        "ur",
+        "(1-pentylindol-3-yl)-(2,2,3,3-tetrametylocyklopropylo)metanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3C(C3(C)C)(C)C"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AM-2201",
+      "inna nazwa": [
+        "AM-ka",
+        "aemka",
+        "[1-(5-fluoropentylo)-1H-indol-3-ilo](naftalen-1-ylo)metanon"
+      ],
+      "odmiany": [
+        "aemki",
+        "aemkę",
+        "aemką",
+        "aemce"
+      ],
+      "wzor chemiczny": [
+        "c1ccc2c(c1)cccc2C(=O)c3cn(c4c3cccc4)CCCCCF"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5F-AKB48",
+      "inna nazwa": [
+        "5F-APINACA",
+        "N-adamantylo-1-(5-fluoropentylo)indazolo-3-karboksamid"
+      ],
+      "wzor chemiczny": [
+        "O=C(NC1(C[C@@H]2C3)C[C@H](C2)C[C@H]3C1)C4=NN(CCCCCF)C5=CC=CC=C54"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "THJ-2201",
+      "inna nazwa": [
+        "1-[(5-fluoropentylo)-1H-indazol-3-ylo]-(naftalen-1-ylo)metanon"
+      ],
+      "wzor chemiczny": [
+        "O=C(C1=CC=CC2=C1C=CC=C2)C3=NN(CCCCCF)C4=C3C=CC=C4"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AB-PINACA",
+      "inna nazwa": [],
+      "wzor chemiczny": [
+        "CCCCCn1c2ccccc2c(n1)C(=O)N[C@@H](C(C)C)C(=O)N"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AB-CHMINACA",
+      "inna nazwa": [],
+      "wzor chemiczny": [
+        "O=C(C1=CC=CC2=C1C=CC=C2)C3=NN(CCCCCF)C4=C3C=CC=C4"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "BB-22",
+      "inna nazwa": [
+        "QUCHIC",
+        "1-(cykloheksylometylo)-1H-indolo-3-karboksylan 8-chinolinylu"
+      ],
+      "wzor chemiczny": [
+        "C1CCC(CC1)CN2C=C(C3=CC=CC=C32)C(=O)OC4=CC=CC5=C4N=CC=C5"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AKB48",
+      "inna nazwa": [
+        "APINACA",
+        "N-adamantylo-1-pentyloindazolo-3-karboksamid"
+      ],
+      "wzor chemiczny": [
+        "O=C(NC12C[C@H]3C[C@H](C[C@@H](C2)C3)C1)C4=NN(CCCC(O)C)C5=C4C=CC=C5"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "THJ018",
+      "inna nazwa": [
+        "naftalen-1-ylo-(1-pentylo-3-ind-[1,2]-azolilo)metanon"
+      ],
+      "wzor chemiczny": [
+        "O=C(C1=NN(CCCCC)C2=C1C=CC=C2)C3=C4C(C=CC=C4)=CC=C3"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AB-FUBINACA",
+      "inna nazwa": [
+        "N-[(1S)-1-(aminokarbonylo)-2-metylopropylo]-1-[(4-fluorofenylo)metylo]-1H-indazolo-3-karboksamid"
+      ],
+      "wzor chemiczny": [
+        "O=C(C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)N[C@@H](C(C)C)C(N)=O"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MAM-2201",
+      "inna nazwa": [
+        "5F-JWH-122",
+        "(4-metylo-1-naftalenylo)-(1-(5-fluoropentylo)indol-3-ilo)metanon"
+      ],
+      "wzor chemiczny": [
+        "FCCCCCn(c4)c2ccccc2c4C(=O)c3ccc(C)c1ccccc13"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "JWH-073",
+      "inna nazwa": [
+        "naftalen-1-yl-(1-butyloindol-3-yl)metanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=CC=CC=C43"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "JWH-210",
+      "inna nazwa": [
+        "4-etylonaftalen-1-yl-(1-pentyloindol-3-yl)metanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=C(C4=CC=CC=C43)CC"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "JWH-122",
+      "inna nazwa": [
+        "(4-metylo-1-naftylo)-(1-pentyloindol-3-yl)metanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=C(C4=CC=CC=C43)C"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "JWH-182",
+      "inna nazwa": [
+        "1-(1-pentylindol-3-yl)-1-(4-propylnaftalen-1-yl)metanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C(C2=C(C=CC=C3)C3=C(CCC)C=C2)=O)C4=C1C=CC=C4"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "JWH-307",
+      "inna nazwa": [
+        "(5-(2-fluorofenylo)-1-pentylpirol-3-yl)-naftalen-1-ylmetanon"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C=C1C2=CC=CC=C2F)C(=O)C3=CC=CC4=CC=CC=C43"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "HU-210",
+      "inna nazwa": [
+        "(6aR,10aR)-9-(hydroksymetylo)-6,6-dimetylo-3-(2-metylooktan-2-ylo)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol "
+      ],
+      "wzor chemiczny": [
+        "CCCCCCC(C)(C)C1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO)C(=C1)O"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "URB597",
+      "inna nazwa": [
+        "[3-(3-karbamoilfenylo)fenylo]N-cykloheksylkarbaminian"
+      ],
+      "wzor chemiczny": [
+        "C1CCC(CC1)NC(=O)OC2=CC=CC(=C2)C3=CC(=CC=C3)C(=O)N"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "antydepresanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "STS-135",
+      "inna nazwa": [
+        "N-adamantylo-1-[1-(5-fluoropentylo)indolo]-3-karboksamid",
+        "5F-2NE1",
+        "5F-APICA"
+      ],
+      "wzor chemiczny": [
+        "C1C2CC3CC1CC(C2)(C3)NC(=O)C4=CN(C5=CC=CC=C54)CCCCCF"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AM-1248",
+      "inna nazwa": [
+        "1-[(N-metylopiperydyn-2-yl)metylo]-3-(adamant-1-oil)indol"
+      ],
+      "wzor chemiczny": [
+        "CN1CCCCC1CN2C=C(C3=CC=CC=C32)C(=O)C45CC6CC(C4)CC(C6)C5"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AM-694",
+      "inna nazwa": [
+        "(1-(5-fluoropentylo)-3-(2-iodobenzylo)indol)"
+      ],
+      "wzor chemiczny": [
+        "C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)C3=CC=CC=C3I"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "AM-2233",
+      "inna nazwa": [
+        "1-[(N-metylopiperydyn-2-yl)metylo]-3-(2-jodobenzoil)indol"
+      ],
+      "wzor chemiczny": [
+        "CN1CCCCC1CN2C=C(C3=CC=CC=C32)C(=O)C4=CC=CC=C4I"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5F-PB-22",
+      "inna nazwa": [
+        "1-(5-fluoropentylo)indolo-3-karboksylan 8-chinoliny"
+      ],
+      "wzor chemiczny": [
+        "C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)OC3=CC=CC4=C3N=CC=C4"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5F-UR-144",
+      "inna nazwa": [
+        "XLR-11",
+        "(1-(5-fluoro)pentylindol-3-yl)-(2,2,3,3-tetrametylocyklopropylo)metanon"
+      ],
+      "wzor chemiczny": [
+        "CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CCCCCF)C"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2NE1",
+      "inna nazwa": [
+        "N-adamantylo-1-pentyloindolo-3-karboksamid",
+        "APICA",
+        "SDB-001"
+      ],
+      "wzor chemiczny": [
+        "CCCCCN1C=C(C2=CC=CC=C21)C(=O)NC34CC5CC(C3)CC(C5)C4"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "A-834,735",
+      "inna nazwa": [
+        "1-(tetrahydropiran-4-ylometylo)-1H-indol-3-yl]-(2,2,3,3-tetrametylocyklopropylo)metanon"
+      ],
+      "wzor chemiczny": [
+        "CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CC4CCOCC4)C"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "PCP",
+      "inna nazwa": [
+        "fencyklidyna",
+        "1-(1-fenylocykloheksylo)piperydyna",
+        "anielski pył"
+      ],
+      "wzor chemiczny": [
+        "C1CCC(CC1)(C2=CC=CC=C2)N3CCCCC3"
+      ],
+      "odmiany": [
+        "fencyklidyną",
+        "fencyklidynę",
+        "fencyklidyny",
+        "fencyklidynie"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "piperydyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "dekstrometorfan",
+      "inna nazwa": [
+        "DXM",
+        "deks",
+        "ako",
+        "dex",
+        "Dextromethorphanum",
+        "dexter"
+      ],
+      "wzor chemiczny": [
+        "CN1CC[C@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC"
+      ],
+      "odmiany": [
+        "dekstrometorfanu",
+        "dekstrometorfanem",
+        "dekstrometorfanie",
+        "dekstrometorfanowi",
+        "deksa",
+        "deksem",
+        "deksowi",
+        "deksie",
+        "dexa",
+        "dexem",
+        "dexowi",
+        "dexie",
+        "dextera",
+        "dexterem",
+        "dexterowi",
+        "dexterze",
+        "Acodinu",
+        "Acodinowi",
+        "Acodinie",
+        "Acodinem",
+        "Akodinu",
+        "Akodinowi",
+        "Akodinie",
+        "Akodinem"
+      ],
+      "nazwa generyczna": [
+        "Acodin",
+        "Tussidex",
+        "Dexatussin",
+        "Tussal",
+        "Argotussin",
+        "Robitussin"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA"
+      ],
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "metoksetamina",
+      "inna nazwa": [
+        "MXE",
+        "2-(3-metoksyfenyl)-2-(etylamino)cykloheksanon",
+        "3-MeO-2-Oxo-PCE"
+      ],
+      "odmiany": [
+        "metoksetaminy",
+        "metoksetaminą",
+        "metoksetaminę",
+        "metoksetaminie"
+      ],
+      "wzor chemiczny": [
+        "O=C1CCCCC1(C2=CC=CC(OC)=C2)NCC"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "arylcykloheksaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "ketamina",
+      "inna nazwa": [
+        "keta",
+        "2-(2-chlorofenylo)-2-(N-metyloamino)cykloheksanon"
+      ],
+      "odmiany": [
+        "ketaminy",
+        "ketaminą",
+        "ketaminę",
+        "ketaminie"
+      ],
+      "wzor chemiczny": [
+        "CNC1(CCCCC1=O)C2=CC=CC=C2Cl"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "arylcykloheksaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "3-MeO-PCP",
+      "inna nazwa": [
+        "3-metoksyfencyklidyna"
+      ],
+      "wzor chemiczny": [
+        "COc3cccc(c3)C1(CCCCC1)N2CCCCC2"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "arylcykloheksaminy",
+        "piperydyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-MeO-PCP",
+      "inna nazwa": [
+        "4-metoksyfencyklidyna"
+      ],
+      "wzor chemiczny": [
+        "COc1ccc(cc1)C2(CCCCC2)N3CCCCC3"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "arylcykloheksaminy",
+        "piperydyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "etketamina",
+      "inna nazwa": [
+        "N-etylonorketamina",
+        "2-(2-chlorofenylo)-2-(etyloamino)cykloheksan-1-on",
+        "NEK"
+      ],
+      "odmiany": [
+        "etketaminy",
+        "etketaminą",
+        "etketaminę",
+        "etketaminie"
+      ],
+      "wzor chemiczny": [
+        "CCNC1(CCCCC1=O)C2=CC=CC=C2Cl"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "arylcykloheksaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "difenidyna",
+      "inna nazwa": [
+        "(±)-1-(1,2-difenyloetylo)piperydyna"
+      ],
+      "odmiany": [
+        "difenidyny",
+        "difenidyną",
+        "difenidynę",
+        "difenidynie"
+      ],
+      "wzor chemiczny": [
+        "c1ccc(cc1)CC(c2ccccc2)N3CCCCC3"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "piperydyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metoksyfenidyna",
+      "inna nazwa": [
+        "MXP",
+        "1[1(2metoksyfenylo)-2-fenyloetylo]piperydyna"
+      ],
+      "odmiany": [
+        "metoksyfenidyny",
+        "metoksyfenidynie",
+        "metoksyfenidynę",
+        "metoksyfenidyną"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC=CC=C1C(CC2=CC=CC=C2)N3CCCCC3"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "piperydyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "meskalina",
+      "inna nazwa": [
+        "meska",
+        "2-(3,4,5-trimetoksyfenylo)etyloamina"
+      ],
+      "odmiany": [
+        "meskaliny",
+        "meskalinie",
+        "meskalinę",
+        "meskaliną"
+      ],
+      "nazwa chemiczna": [
+        "COC1=CC(=CC(=C1OC)OC)CCN"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy",
+        "pochodzenie roślinne",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TMA",
+      "inna nazwa": [
+        "2,4,5-trimetoksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=C(OC)C=C(OC)C(OC)=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "trimetoksyamfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TMA-2",
+      "inna nazwa": [
+        "2,4,5-trimetoksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=C(OC)C=C(OC)C(OC)=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "trimetoksyamfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TMA-3",
+      "inna nazwa": [
+        "2,3,4-trimetoksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CC=C(OC)C(OC)=C1OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "trimetoksyamfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TMA-4",
+      "inna nazwa": [
+        "2,3,5-trimetoksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CC(OC)=CC(OC)=C1OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "trimetoksyamfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TMA-5",
+      "inna nazwa": [
+        "2,3,6-trimetoksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=C(OC)C=CC(OC)=C1OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "trimetoksyamfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TMA-6",
+      "inna nazwa": [
+        "2,4,6-trimetoksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CC(OC)=CC(OC)=C1OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "trimetoksyamfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-P",
+      "inna nazwa": [
+        "dwacep",
+        "2-(2,5-dimetoksy-4-propylofenylo)etanoamina"
+      ],
+      "wzor chemiczny": [
+        "CCCC1=CC(=C(C=C1OC)CCN)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C",
+        "2C-x"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MDMA",
+      "inna nazwa": [
+        "XTC",
+        "ecstasy",
+        "3,4-metylenodioksymetamfetamina",
+        "N-[2-(1,3-benzodioksol-5-yl)-1-metyloetylo]-N-metyloamina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC2=C(C=C1)OCO2)NC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "PMA",
+      "inna nazwa": [
+        "4-MA",
+        "4-metoksyamfetamina",
+        "UFO"
+      ],
+      "wzor chemiczny": [
+        "C1=CC(=CC=C1CC(C)N)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "IMAO"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MDA",
+      "inna nazwa": [
+        "3,4-metylenodioksyamfetamina",
+        "tenamfetamina",
+        "2-(1,3-benzodioksol-5-yl)-1-metyloetyloamina",
+        "metylendioksyamfetamina"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CC2=C(C=C1)OCO2"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MDEA",
+      "inna nazwa": [
+        "MDE",
+        "N-[2-(1,3-benzodioksol-5-yl)-1-metyloetylo]-N-etyloamina"
+      ],
+      "wzor chemiczny": [
+        "CCNC(C)Cc1ccc2OCOc2c1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "6-APB",
+      "inna nazwa": [
+        "benzo fury",
+        "6-(2-aminopropylo)benzofuran"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CC(OC=C2)=C2C=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "6-APDB",
+      "inna nazwa": [
+        "6-(2-aminopropyl)-2,3-dihydrobenzofuran",
+        "4-desoksy-MDA",
+        "1-(2,3-dihydro-1-benzofuran-6-ylo)propano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "O2c1cc(ccc1CC2)CC(N)C"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "6-MAPB",
+      "inna nazwa": [
+        "6-[2-(metylamino)propylo]benzofuran"
+      ],
+      "wzor chemiczny": [
+        "CC(NC)CC1=CC(OC=C2)=C2C=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-APB",
+      "inna nazwa": [
+        "5-(2-aminopropylo)benzofuran"
+      ],
+      "wzor chemiczny": [
+        "CC(N)CC1=CC(C=CO2)=C2C=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-MAPB",
+      "inna nazwa": [
+        "5-[2-(metylamino)propylo]benzofuran"
+      ],
+      "wzor chemiczny": [
+        "NC(C)CC1=CC2=C(C=C1)OCO2"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-API",
+      "inna nazwa": [
+        "5-IT",
+        "5-(2-aminopropyl)indol"
+      ],
+      "wzor chemiczny": [
+        "CC(N)Cc2cc1ccnc1cc2"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-EAPB",
+      "inna nazwa": [
+        "5-[2-(etylamino)propylo]benzofuran"
+      ],
+      "wzor chemiczny": [
+        "CC(NCC)CC1=CC(C=CO2)=C2C=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-APDB",
+      "inna nazwa": [
+        "3-Desoxy-MDA",
+        "5-(2-aminopropylo)-2.3-dihydrobenzofuran",
+        "1-(2,3-dihydro-1-benzofuran-5-ylo)-2-aminopropan"
+      ],
+      "wzor chemiczny": [
+        "Cl.CC(N)Cc1cc2CCOc2cc1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "5-APDI",
+      "inna nazwa": [
+        "IAP",
+        "5-(2-aminopropyl)-2,3-dihydroinden"
+      ],
+      "wzor chemiczny": [
+        "c1cc(cc2c1CCC2)CC(N)C"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "benzofurany"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "alliloeskalina",
+      "inna nazwa": [
+        "4-alliloksy-3,5-dimetoksyfenyloetyloamina",
+        "2-(3,5-dimetoksy-4-prop-2-enoksyfenylo)etanoamina",
+        "3,5-dimetoksy-4-alliloksyfenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC(=CC(=C1OCC=C)OC)CCN"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "Beta-D",
+      "inna nazwa": [
+        "3,4,5-trimetoksy-β,β-dideuterofenetylamina",
+        "3,4,5-trimetoksy-1-etylo-(β-dideutero)amina",
+        "2-(3,4,5-trimetoksyfenylo)(2,2-2H2)etanoamina"
+      ],
+      "wzor chemiczny": [
+        "[2H]C([2H])(CN)C1=CC(=C(C(=C1)OC)OC)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "3C-P",
+      "inna nazwa": [
+        "P3-C",
+        "4-propoksy-3,5-dimetoksyamfetamina",
+        "2-amino-1-(4-propoksy-3,5-dimetoksyfenylo)propan"
+      ],
+      "wzor chemiczny": [
+        "CCCOC1=C(C=C(C=C1OC)CC(C)N)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "3C-E",
+      "inna nazwa": [
+        "2-amino-1-(4-etoksy-3,5-dimetoksyfenylo)propan",
+        "3,5-dimetoksy-4-etoksy-amfetamina"
+      ],
+      "wzor chemiczny": [
+        "CCOc1c(cc(cc1OC)CC(C)N)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MAL",
+      "inna nazwa": [
+        "3,5-dimetoksy-4-metyloallilooksyfenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "CC(=C)COc1c(cc(cc1OC)CCN)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "eskalina",
+      "inna nazwa": [
+        "2-(4-ethoksy-3,5-dimetoxksy-fenylo)-etyolamina"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC(=CC(=C1OCC=C)OC)CCN"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-E",
+      "inna nazwa": [
+        "1-(2,5-dimetoksy-4-etylofenylo)-2-aminoetan",
+        "2,5-dimetoksy-etylofenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "NCCC1=C(OC)C=C(CC)C(OC)=C1"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-B",
+      "inna nazwa": [
+        "2,5-dimetoksy-4-bromofenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC(=C(C=C1CCN)OC)Br"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-C",
+      "inna nazwa": [
+        "1-(4-chloro-2,5-dimetoksyfenylo)-2-ethanoamina",
+        "2,5-dimetoksy-4-chlorofenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "COc1cc(CCN)c(cc1Cl)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-B-FLY",
+      "inna nazwa": [
+        "2-(4-bromo-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-ylo)etanoamina"
+      ],
+      "wzor chemiczny": [
+        "NCCC1=C(OCC2)C2=C(Br)C3=C1CCO3"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-D",
+      "inna nazwa": [
+        "1-(2,5-dimetoksy-4-metylofenylo)-2-aminoetan",
+        "22,5-dimetoksy-4-metylofenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "CC1=CC(=C(C=C1OC)CCN)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-I",
+      "inna nazwa": [
+        "4-jodo-2,5-dimetoksyfenyloetyloamina"
+      ],
+      "wzor chemiczny": [
+        "Ic1cc(OC)c(cc1OC)CCN"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-T-4",
+      "wzor chemiczny": [
+        "CC(C)Sc1cc(OC)c(cc1OC)CCN"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "25C-NBOMe",
+      "inna nazwa": [
+        "NBOMe-2C-C",
+        "2-(4-chloro-2,5-dimetoksyfenylo)-N-[(2-metoksyfenylo)metylo]etyloamina",
+        "Cimbi-82"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Cl)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "NBOMe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "25I-NBOMe",
+      "inna nazwa": [
+        "NBOMe-2C-I",
+        "BOM-CI",
+        "Cimbi-5",
+        "N-(2-metoksybenzylo)-1-(2,5-dimetoksy-4-jodofenylo)-2-aminoetan"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)I)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "NBOMe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "25B-NBOMe",
+      "inna nazwa": [
+        "NBOMe-2C-B",
+        "BOM 2-CB",
+        "Cimbi-36",
+        "N-(2-metoksybenzylo)-1-(4-bromo-2,5-dimetoksyfenylo)-2-aminoetan"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Br)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "NBOMe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "25D-NBOMe",
+      "inna nazwa": [
+        "NBOMe-2C-D",
+        "N-(2-metoksybenzylo)-1-(2,5-dimetoksy-4-metylofenylo)-2-aminoetan"
+      ],
+      "wzor chemiczny": [
+        "CC1=CC(OC)=C(CCNCC2=C(OC)C=CC=C2)C=C1OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "NBOMe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "25E-NBOMe",
+      "inna nazwa": [
+        "NBOMe-2C-E",
+        "N-(2-metoksybenzylo)-1-(4-etylo-2,5-dimetoksyfenylo)-2-aminoetan"
+      ],
+      "wzor chemiczny": [
+        "COC(C=CC=C1)=C1CNCCC2=C(OC)C=C(CC)C(OC)=C2"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "NBOMe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "25B-NBOMe",
+      "inna nazwa": [
+        "NBOMe-2C-P",
+        "N-(2-metoksybenzylo)-1-(2,5-dimetoksy-4-propylofenylo)-2-aminoetan"
+      ],
+      "wzor chemiczny": [
+        "CCCC1=CC(OC)=C(CCNCC2=C(OC)C=CC=C2)C=C1OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "NBOMe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "Bromo-DragonFLY",
+      "inna nazwa": [
+        "BDF",
+        "ważka",
+        "bromoważka",
+        "(1-(8-bromobenzo[1,2-b;4,5-b']difuran-4-yl)-2-aminopropan"
+      ],
+      "odmiany": [
+        "ważką",
+        "ważce",
+        "ważki",
+        "ważkę",
+        "bromoważką",
+        "bromoważce",
+        "bromoważki",
+        "bromoważkę"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=C2C=COC2=C(C3=C1OC=C3)Br)N"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DOC",
+      "inna nazwa": [
+        "2,5-Dimetoksy-4-chloroamfetamina"
+      ],
+      "odmiany": [
+        "doca",
+        "docem",
+        "docowi",
+        "docu"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC(=C(C=C1OC)Cl)OC)N"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy",
+        "DOx"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DOI",
+      "inna nazwa": [
+        "2,5-Dimetoksy-4-jodoamfetamina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC(=C(C=C1OC)I)OC)N"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy",
+        "DOx"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DOB",
+      "inna nazwa": [
+        "2,5-Dimetoksy-4-bromoamfetamina",
+        "brolamfetamina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC(=C(C=C1OC)Br)OC)N"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy",
+        "DOx"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "DOM",
+      "inna nazwa": [
+        "STP",
+        "2,5-Dimetoksy-4-metyloamfetamina",
+        "1-(2,5-dimetoksy-4-metylofenylo)propano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC1=CC(=C(C=C1OC)CC(C)N)OC"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "amfetamina",
+      "inna nazwa": [
+        "benzedryna",
+        "psychedryna",
+        "α-metylofenyloetyloamina",
+        "amfa",
+        "amph",
+        "wład"
+      ],
+      "odmiany": [
+        "amfetaminy",
+        "amfetaminie",
+        "amfetaminą",
+        "amfetaminę",
+        "amfy",
+        "amfie",
+        "amfą",
+        "amfę",
+        "psychedryny",
+        "psychedrynie",
+        "psychedryną",
+        "psychedrynę",
+        "włada",
+        "władem",
+        "władowi",
+        "władzie"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=CC=C1)N"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metamfetamina",
+      "inna nazwa": [
+        "metyloamfetamina",
+        "meta",
+        "piko",
+        "ice",
+        "meth",
+        "N-metyloamfetamina",
+        "(rac)-N-metylo-1-fenylopropylo-2-amina",
+        "dezoksyefedryna"
+      ],
+      "odmiany": [
+        "metamfetaminy",
+        "metamfetaminie",
+        "metamfetaminą",
+        "metamfetaminę",
+        "mety",
+        "mecie",
+        "metą",
+        "metę"
+      ],
+      "wzor chemiczny": [
+        "N(C(Cc1ccccc1)C)C"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2-FMA",
+      "inna nazwa": [
+        "2-fluorometamfetamina",
+        "1-(2-fluorofenylo)-N-metylopropan-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=CC=C1F)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2-FA",
+      "inna nazwa": [
+        "2-fluoroamfetamina",
+        "1-(2-fluorofenylo)propan-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=CC=C1F)N"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "3-FA",
+      "inna nazwa": [
+        "3-fluoroamfetamina",
+        "PAL-353",
+        "1-(3-fluorofenylo)propan-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC(=CC=C1)F)N"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-FMA",
+      "inna nazwa": [
+        "4-fluorometamfetamina",
+        "2-amino-1-(tol-4-ylo)propan"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=C(C=C1)F)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-MA",
+      "inna nazwa": [
+        "4-metyloamfetamina",
+        "1-(2-fluorofenylo)-N-metylopropylo-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC1=CC=C(C=C1)CC(C)N"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-MMA",
+      "inna nazwa": [
+        "4-metylometamfetamina",
+        "N,4-dimetyloamfetamina",
+        "N-metylo-1-(tol-4-yl)propan-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC1=CC=C(C=C1)CC(C)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "amfetaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "alfa-PVP",
+      "inna nazwa": [
+        "α-Pirolidynopentiofenon",
+        "alfa",
+        "1-fenylo-2-(1-pirolidynylo)-1-pentanon"
+      ],
+      "odmiany": [
+        "alfy",
+        "alfie",
+        "alfą",
+        "alfę"
+      ],
+      "wzor chemiczny": [
+        "C1CCCN1C(CCC)C(=O)c2ccccc2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "alfa-pirolidynoalkilofenony",
+        "beta-ketony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MDPV",
+      "inna nazwa": [
+        "MDPK",
+        "1-(1,3-benzodioksol-5-ylo)-2-pirolidin-1-ylopentan-1-on"
+      ],
+      "wzor chemiczny": [
+        "CCCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "alfa-pirolidynoalkilofenony",
+        "beta-ketony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "alfa-PPP",
+      "inna nazwa": [
+        "α-Pirolidynopropiofenon",
+        "1-fenylo-2-pirolidyn-1-ylopropan-1-on"
+      ],
+      "wzor chemiczny": [
+        "CC(C(=O)C1=CC=CC=C1)N2CCCC2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "alfa-pirolidynoalkilofenony",
+        "beta-ketony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "katynon",
+      "inna nazwa": [
+        "2-amino-1-fenylopropan-1-on",
+        "β-ketoamfetamina"
+      ],
+      "odmiany": [
+        "katynonu",
+        "katynonie",
+        "katnynonem",
+        "katnynonowi"
+      ],
+      "wzor chemiczny": [
+        "CC(C(=O)C1=CC=CC=C1)N"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "alkaloidy",
+        "katynony",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "mefedron",
+      "inna nazwa": [
+        "4-MMC",
+        "4-metylometkatynon",
+        "1-(4-metylofenylo)-2-metyloaminopropan-1-o",
+        "2-metyloamino-1-p-tolilopropan-1-on",
+        "metyloefedron",
+        "M-CAT",
+        "mef",
+        "mefistofeles"
+      ],
+      "odmiany": [
+        "mefedronu",
+        "mefedronie",
+        "mefedronem",
+        "mefedronowi",
+        "mefa",
+        "mefowi",
+        "mefem",
+        "mefistofelesa",
+        "mefistofelesem",
+        "mefistofelesowi"
+      ],
+      "wzor chemiczny": [
+        "Cc1ccc(cc1)C(=O)C(C)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metylokatynon",
+      "inna nazwa": [
+        "metkatynon",
+        "metkat",
+        "efedron",
+        "2-(metyloamino)-1-fenylopropan-1-on",
+        "kotek"
+      ],
+      "odmiany": [
+        "metkatynonu",
+        "metkatynonie",
+        "metkatynonem",
+        "metkatynonowi",
+        "metkata",
+        "metkatowi",
+        "metkatem",
+        "metkacie",
+        "efedronu",
+        "efedronowi",
+        "efedronie",
+        "efedronem",
+        "kotkiem",
+        "kotka",
+        "kotku",
+        "kotkowi"
+      ],
+      "wzor chemiczny": [
+        "C1=CC=CC=C1C(C(C)N(C)[H])=O"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "bufedron",
+      "inna nazwa": [
+        "MABP",
+        "alfa-metyloaminobutyrofenon",
+        "2-(metylamino)-1-fenylobutan-1-on",
+        "buf",
+        "bufik"
+      ],
+      "odmiany": [
+        "bufedronu",
+        "bufedronem",
+        "bufedronie",
+        "bufedronowi",
+        "bufowi",
+        "bufem",
+        "bufie",
+        "bufa",
+        "bufika",
+        "bufikiem",
+        "bufikowi"
+      ],
+      "wzor chemiczny": [
+        "CNC(CC)C(=O)c1ccccc1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "pentedron",
+      "inna nazwa": [
+        "alfa-metyloaminowalerofenon",
+        "1-fenylo-2-metyloaminopentan-1-on"
+      ],
+      "odmiany": [
+        "pentedronu",
+        "pentedronowi",
+        "pentedronem",
+        "pentedronie"
+      ],
+      "wzor chemiczny": [
+        "O=C(C(CCC)NC)C1=CC=CC=C1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metylon",
+      "inna nazwa": [
+        "bk-MDMA",
+        "M1",
+        "1-(1,3-benzodioksol-5-yl)-2-metyloaminopropan-1-on"
+      ],
+      "odmiany": [
+        "metylonu",
+        "metylonem",
+        "metylonowi",
+        "metylonie"
+      ],
+      "wzor chemiczny": [
+        "CC(NC)C(=O)C1=CC=C(OCO2)C2=C1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "butylon",
+      "inna nazwa": [
+        "bk-MBDB",
+        "1-(1,3-benzodioksol-5-yl)-2-(metyloamino)butan-1-on"
+      ],
+      "odmiany": [
+        "butylonu",
+        "butylonem",
+        "butylonowi",
+        "butylonie"
+      ],
+      "wzor chemiczny": [
+        "CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "dimetylon",
+      "inna nazwa": [
+        "bk-MDDMA",
+        "M11",
+        "1-​(1,​3-​benzodioxol-​5-​yl)-​2-​(dimethylamino)-​1-​propanone"
+      ],
+      "odmiany": [
+        "dimetylonu",
+        "dimetylonem",
+        "dimetylonowi",
+        "dimetylonie"
+      ],
+      "wzor chemiczny": [
+        "CC(N(C)​C)​C(C1=CC(OCO2)​=C2C=C1)​=O.Cl"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "brefedron",
+      "inna nazwa": [
+        "4-BMC",
+        "1-(4-bromofenylo)-2-(metyloamino)-propan-1-on"
+      ],
+      "odmiany": [
+        "brefedronu",
+        "brefedronem",
+        "brefedronie",
+        "brefedronowi"
+      ],
+      "wzor chemiczny": [
+        "CC(C(=O)C1=CC=C(C=C1)Br)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "etkatynon",
+      "inna nazwa": [
+        "etkat",
+        "2-etyloamino-1-fenylo-propan-1-on"
+      ],
+      "odmiany": [
+        "etkatynonu",
+        "etkatynonie",
+        "etkatynonem",
+        "etkatynonowi"
+      ],
+      "wzor chemiczny": [
+        "CCNC(C)C(=O)C1=CC=CC=C1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "flufedron",
+      "inna nazwa": [
+        "3-FMC",
+        "1-(3-fluorofenylo)-2-metyloaminopropan-1-on"
+      ],
+      "odmiany": [
+        "flufedronu",
+        "flufedronie",
+        "flufedronem",
+        "flufedronowi"
+      ],
+      "wzor chemiczny": [
+        "CC(C(=O)C1=CC(=CC=C1)F)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metedron",
+      "inna nazwa": [
+        "bk-PMMA",
+        "PMMC",
+        "1-(4-metoksyfenylo)-2-(metyloamino)propan-1-on"
+      ],
+      "odmiany": [
+        "metedronu",
+        "metedronie",
+        "metedronem",
+        "metedronowi"
+      ],
+      "wzor chemiczny": [
+        "CC(C(=O)C1=CC=C(C=C1)OC)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "etylon",
+      "inna nazwa": [
+        "bk-MDEA",
+        "1-(1,3-benzodioksol)-2-etyloaminopropan-1-on"
+      ],
+      "odmiany": [
+        "etylonu",
+        "etylonem",
+        "etylonie",
+        "etylonowi"
+      ],
+      "wzor chemiczny": [
+        "CCNC(C)C(=O)C1=CC2=C(C=C1)OCO2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "pentylon",
+      "inna nazwa": [
+        "bk-MBDP",
+        "M11",
+        "1-(1,3-benzodioksol)-2-metyloaminopentan-1-on"
+      ],
+      "odmiany": [
+        "pentylonu",
+        "pentylonem",
+        "pentylonie",
+        "pentylonowi"
+      ],
+      "wzor chemiczny": [
+        "CCCC(C(=O)C1=CC2=C(C=C1)OCO2)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "izometedron",
+      "inna nazwa": [
+        "3-MeOMC",
+        "3-MOMC",
+        "13-metoksy-N-metylokatynon",
+        "1-(3-metoksyfenylo)-2-(metyloamino)propan-1-on"
+      ],
+      "odmiany": [
+        "izometedronu",
+        "izometedronie",
+        "izometedronem",
+        "izometedronowi"
+      ],
+      "wzor chemiczny": [
+        "CC(C(=O)C1=CC=C(C=C1)OC)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-MEC",
+      "inna nazwa": [
+        "1-(4-metylofenylo)-2-etylaminopropan-1-o"
+      ],
+      "wzor chemiczny": [
+        "CCNC(C)C(=O)C1=CC=C(C=C1)C"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "efedryna",
+      "inna nazwa": [
+        "2-(metyloamino)-1-fenylopropan-1-ol",
+        "efka",
+        "Herbal XTC",
+        "Ephedrinum"
+      ],
+      "odmiany": [
+        "efedryny",
+        "efedrynę",
+        "efedryną",
+        "efedrynie",
+        "efki",
+        "efce",
+        "efką"
+      ],
+      "wzor chemiczny": [
+        "CC(C(C1=CC=CC=C1)O)NC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "pochodzenie roślinne",
+        "alkaloid"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "pseudoefedryna",
+      "inna nazwa": [
+        "(1S,2S)-2-(metyloamino)-1-fenylopropan-1-ol",
+        "pseudoefka"
+      ],
+      "odmiany": [
+        "pseudoefedryny",
+        "pseudoefedrynę",
+        "pseudoefedryną",
+        "pseudoefedrynie",
+        "pseudoefki",
+        "pseudefce",
+        "pseudoefką"
+      ],
+      "wzor chemiczny": [
+        "O[C@@H](c1ccccc1)[C@@H](NC)C"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "etylofenidat",
+      "inna nazwa": [
+        "2-fenylo-2-(piperydyn-2-ylo)octan etylu",
+        "EPH"
+      ],
+      "odmiany": [
+        "etylofenidatu",
+        "etylofenidatem",
+        "etylofenidatowi",
+        "etylofenidacie"
+      ],
+      "wzor chemiczny": [
+        "CCOC(=O)C(C1CCCCN1)C2=CC=CC=C2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperydyny",
+        "fenyloetyloaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "metylofenidat",
+      "inna nazwa": [
+        "2-fenylo-2-(piperydyn-2-ylo)octan metylu",
+        "Ritalin",
+        "MPH"
+      ],
+      "odmiany": [
+        "metylofenidatu",
+        "metylofenidatem",
+        "metylofenidatowi",
+        "metylofenidacie",
+        "Ritalinu",
+        "Ritalinem",
+        "Ritalinowi",
+        "Ritalinie"
+      ],
+      "wzor chemiczny": [
+        "O=C(OC)C(C1CCCCN1)C2=CC=CC=C2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperydyny",
+        "fenyloetyloaminy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4,4-DMAR",
+      "inna nazwa": [
+        "4,5-dihydro-4-metylo-5-(4-metylofenylo)-2-Oksazolamina",
+        "4,4-dimetylo-aminorex",
+        "Dimar",
+        "4-­metyl-­5-­(4-­metylofenylo)-­4,5-­dihydro-­1,3-­oksazol-­2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(N=C(N)O1)C1C2=CC=C(C)C=C2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "aminoreksy",
+        "oksazole"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-MAR",
+      "inna nazwa": [
+        "5-fenylo-4-metylo-4,5-dihydrooksazolo-2-amina",
+        "4-metylaminoreks"
+      ],
+      "wzor chemiczny": [
+        "CC1C(OC(=N1)N)C2=CC=CC=C2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "aminoreksy",
+        "oksazole"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "aminoreks",
+      "inna nazwa": [
+        "2-amino-5-fenylo-2-oksazolina"
+      ],
+      "wzor chemiczny": [
+        "NC1=NCC(C2=CC=CC=C2)O1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "aminoreksy",
+        "oksazole"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "mCPP",
+      "inna nazwa": [
+        "1-(3-Chlorofenylo)piperazyna",
+        "m-chlorofenylopiperazyna"
+      ],
+      "wzor chemiczny": [
+        "C1CN(CCN1)C2=CC(=CC=C2)Cl"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperazyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "MeOPP",
+      "inna nazwa": [
+        "para-metoksyfenylopiperazyna",
+        "para-metoksyfenylopiperazyna",
+        "pMPP",
+        "4-MPP",
+        "paraperazyna"
+      ],
+      "wzor chemiczny": [
+        "C1=CC(=CC=C1N2CCNCC2)OC"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperazyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "pFPP",
+      "inna nazwa": [
+        "para-fluorofenylopiperazyna",
+        "fluoperazyna",
+        "flipiperazyna",
+        "4-FPP"
+      ],
+      "wzor chemiczny": [
+        "C1CN(CCN1)C2=CC=C(C=C2)F"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperazyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "TFMPP",
+      "inna nazwa": [
+        "meta-(trifluorometylo)fenylopiperazyna",
+        "trifluorometylofenylopiperazyna",
+        "1-(3-trifluorometylofenylo)piperazyna",
+        "N-(alfa,alfa,alfa-trifluoro-m-tolylo)piperazyna"
+      ],
+      "wzor chemiczny": [
+        "C1CN(CCN1)C2=CC=CC(=C2)C(F)(F)F"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperazyny"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "kofeina",
+      "inna nazwa": [
+        "teina",
+        "mateina",
+        "guaranina",
+        "1,3,7-trimetylo-1H-puryno-2,6(3H,7H)-dion",
+        "1,3,7-trimetyloksantyna",
+        "1-metyloteobromina ",
+        "Coffeinum "
+      ],
+      "wzor chemiczny": [
+        "CN1C=NC2=C1C(=O)N(C(=O)N2C)C"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "alkaloidy",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "ibogaina",
+      "inna nazwa": [
+        "12-metoksyibogamina",
+        "7-etylo-6,6β,7,8,9,10,12,13-oktahydro-2-metoksy-6,9-metano-5H-pirydo(1',2':1,2)azepino(5,4-b)indol"
+      ],
+      "odmiany": [
+        "ibogainą",
+        "ibogainę",
+        "ibogainie",
+        "ibogainy"
+      ],
+      "wzor chemiczny": [
+        "CCC1CC2CC3C1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "tryptaminy",
+        "pochodzenie roślinne",
+        "indole",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "johimbina",
+      "inna nazwa": [
+        "Yohimbini hydrochloridum",
+        "17α-hydroksyjohimbano-16α-karboksylan metylu",
+        "(1S,15R,18S,19R,20S)-18-hydroksy-1,3,11,12,14,15,16,17,18,19,20,21-dodekahydrojohimbano-19-karboksylan metylu"
+      ],
+      "odmiany": [
+        "johimbiną",
+        "johimbinę",
+        "johimbinie",
+        "johimbiny"
+      ],
+      "wzor chemiczny": [
+        "COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "afrodyzjaki",
+        "tryptaminy",
+        "pochodzenie roślinne",
+        "indole",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "nikotyna",
+      "inna nazwa": [
+        "(S)-3-[2-(N-metylopirolidyno)]pirydyna"
+      ],
+      "odmiany": [
+        "nikotyną",
+        "nikotynę",
+        "nikotynie",
+        "nikotyny"
+      ],
+      "wzor chemiczny": [
+        "CN1CCCC1C2=CN=CC=C2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "pochodzenie roślinne",
+        "pirydyny",
+        "alkaloidy"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "pejotl",
+      "inna nazwa": [
+        "peyotl",
+        "peyote",
+        "hikuri"
+      ],
+      "odmiany": [
+        "pejotlu",
+        "pejotlem",
+        "pejotlowi",
+        "peyotlu",
+        "peyotlem",
+        "peyotlowi"
+      ],
+      "nazwa gatunkowa": [
+        "Lophophora williamsii",
+        "Jazgrza Williamsa"
+      ],
+      "kategoria": [
+        "rośliny",
+        "kaktusy",
+        "psychodeliki",
+        "meskalina"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Łysiczka lancetowata",
+      "inna nazwa": [
+        "grzybki",
+        "łysiczki",
+        "lancetki",
+        "halucynki",
+        "psylocybki"
+      ],
+      "odmiany": [
+        "łysiczkom",
+        "łysiczką",
+        "łysiczkami",
+        "łysiczce",
+        "łysiczek",
+        "łysiczki",
+        "łysiczkach",
+        "halucynków",
+        "halucynkami",
+        "halucynkach",
+        "halucynków",
+        "lancetki",
+        "lancetek",
+        "lancetkach",
+        "grzybkach",
+        "grzybkami",
+        "grzybkom",
+        "grzybków",
+        "psylocybkom",
+        "psylocybkami",
+        "psylocybkach",
+        "psylocybków"
+      ],
+      "nazwa gatunkowa": [
+        "Łysiczka lancetowata",
+        "Psilocybe semilanceata"
+      ],
+      "kategoria": [
+        "grzyby",
+        "grzyby psylocybinowe",
+        "psychodeliki",
+        "psylocybina"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Trichocereus pachanoi",
+      "inna nazwa": [
+        "San Pedro",
+        "Echinopsis pachanoi"
+      ],
+      "nazwa gatunkowa": [
+        "Trichocereus pachanoi"
+      ],
+      "kategoria": [
+        "rośliny",
+        "kaktusy",
+        "psychodeliki",
+        "meskalina"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Mimosa hostilis",
+      "inna nazwa": [
+        "Mimosa tenuiflora",
+        "Jurema",
+        "mimoza"
+      ],
+      "odmiany": [
+        "mimozy",
+        "mimozie",
+        "mimozę",
+        "mimosy",
+        "mimosie",
+        "mimosę",
+        "juremy",
+        "juremą",
+        "juremie",
+        "juremę"
+      ],
+      "nazwa gatunkowa": [
+        "Mimosa hostilis",
+        "Mimosa tenuiflora"
+      ],
+      "kategoria": [
+        "rośliny",
+        "DMT",
+        "psychodeliki",
+        "ayahuasca"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Diplopterys cabrerana",
+      "inna nazwa": [
+        "chaliponga",
+        "chagropanga"
+      ],
+      "odmiany": [
+        "chalipongi",
+        "chalipongą",
+        "chalipondze",
+        "chalipongę"
+      ],
+      "nazwa gatunkowa": [
+        "Diplopterys cabrerana"
+      ],
+      "kategoria": [
+        "rośliny",
+        "DMT",
+        "psychodeliki",
+        "ayahuasca"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Psychotria viridis",
+      "inna nazwa": [
+        "chacruna"
+      ],
+      "odmiany": [
+        "chacruny",
+        "chacrunie",
+        "chacrunę",
+        "chacruną"
+      ],
+      "nazwa gatunkowa": [
+        "Psychotria viridis"
+      ],
+      "kategoria": [
+        "rośliny",
+        "DMT",
+        "psychodeliki",
+        "ayahuasca"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "tytoń",
+      "inna nazwa": [
+        "tytuń",
+        "tytex"
+      ],
+      "odmiany": [
+        "tytoniu",
+        "tytoniem",
+        "tytoniowi",
+        "tytexu",
+        "tytexem",
+        "tytexowi",
+        "tyteksu",
+        "tyteksem",
+        "tyteksowi"
+      ],
+      "nazwa gatunkowa": [
+        "Nicotiana tabacum",
+        "Tytoń szlachetny"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psiankowate",
+        "stymulanty",
+        "nikotyna"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Muchomor czerwony",
+      "inna nazwa": [
+        "amanita",
+        "fly agaric",
+        "muchar czerwony",
+        "muchomor pospolity"
+      ],
+      "odmiany": [
+        "Muchomora czerwonego",
+        "Muchomorem czerwonym",
+        "Muchomorze czerwonym",
+        "Muchomorowi czerwonemu",
+        "Muchomorów czerwonych",
+        "Muchomorom czerwonym",
+        "Muchomorach czerwonych",
+        "Muchomorami czerwonymi",
+        "amanity",
+        "amanitą",
+        "amanicie",
+        "amanit",
+        "amanitami",
+        "amanitach",
+        "amanitom"
+      ],
+      "nazwa gatunkowa": [
+        "Muchomor czerwony",
+        "Amanita muscaria"
+      ],
+      "kategoria": [
+        "grzyby",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Muchomor plamisty",
+      "inna nazwa": [
+        "pantherina",
+        "muchomór panterowy",
+        "muchomór plamisty"
+      ],
+      "nazwa gatunkowa": [
+        "Muchomor plamisty",
+        "Amanita pantherina"
+      ],
+      "kategoria": [
+        "grzyby",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Bieluń dziędzierzawa",
+      "inna nazwa": [
+        "datura",
+        "czarcie ziele",
+        "cygańskie ziele",
+        "bieluń",
+        "yerba del diablo"
+      ],
+      "odmiany": [
+        "bielunia",
+        "bieluni",
+        "bieluniem",
+        "bielunią",
+        "bieluniu",
+        "daturą",
+        "daturze",
+        "datury",
+        "daturę"
+      ],
+      "nazwa gatunkowa": [
+        "Bieluń dziędzierzawa",
+        "Datura stramonium"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psiankowate",
+        "delirianty",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Pokrzyk wilcza jagoda",
+      "inna nazwa": [
+        "belladonna",
+        "wilcza jagoda"
+      ],
+      "odmiany": [
+        "belladonny",
+        "belladonnie",
+        "belladonną",
+        "belladonnę",
+        "pokrzyku",
+        "pokrzykiem",
+        "pokrzykowi",
+        "wilczą jagodą",
+        "wilczej jagody",
+        "wilczej jagodzie",
+        "wilczą jagodę"
+      ],
+      "nazwa gatunkowa": [
+        "Atropa belladonna",
+        "Pokrzyk wilcza jagoda"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psiankowate",
+        "delirianty",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Lulek czarny",
+      "inna nazwa": [
+        "lulek jadowity",
+        "szalej czarny",
+        "żabi barszcz"
+      ],
+      "odmiany": [
+        "lulka",
+        "lulkiem",
+        "lulku",
+        "lulkowi"
+      ],
+      "nazwa gatunkowa": [
+        "Hyoscyamus niger",
+        "Lulek czarny"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psiankowate",
+        "delirianty",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "mandragora",
+      "inna nazwa": [
+        "alraune"
+      ],
+      "odmiany": [
+        "mandragory",
+        "mandragorze",
+        "mandragorą",
+        "mandragorę"
+      ],
+      "nazwa gatunkowa": [
+        "Mandragora officinarum",
+        "Mandragora lekarska"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psiankowate",
+        "delirianty",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "atropina",
+      "inna nazwa": [
+        "Atropinum",
+        "3-hydroksy-2-fenylopropanian 8-metylo-8-azabicyklo[3.2.1]oktan-3-ylu"
+      ],
+      "odmiany": [
+        "atropiny",
+        "atropiną",
+        "atropinę",
+        "atropinie"
+      ],
+      "wzor chemiczny": [
+        "CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3"
+      ],
+      "kategoria": [
+        "delirianty",
+        "alkaloidy",
+        "pochodzenie roślinne",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "skopolamina",
+      "inna nazwa": [
+        "hioscyna",
+        "(-)-3-endo[(S)-3-hydroksy-2-fenylopropionyloksy]-6,7-epoksy-8-metylo-8-azabicyklo-[1,2,3]-oktan"
+      ],
+      "odmiany": [
+        "skopolaminy",
+        "skopolaminą",
+        "skopolaminę",
+        "skopolaminie"
+      ],
+      "wzor chemiczny": [
+        "CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4"
+      ],
+      "kategoria": [
+        "delirianty",
+        "alkaloidy",
+        "pochodzenie roślinne",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "hioscyjamina",
+      "inna nazwa": [
+        "L-atropina",
+        "3-hydroksy-2-fenylopropanian(2S)-8-metylo-8-azabicyklo[3.2.1]oktan-3-ylu"
+      ],
+      "odmiany": [
+        "hioscyjaminy",
+        "hioscyjaminą",
+        "hioscyjaminę",
+        "hioscyjaminie"
+      ],
+      "wzor chemiczny": [
+        "CN1C2CCC1CC(C2)OC(=O)[C@H](CO)C3=CC=CC=C3"
+      ],
+      "kategoria": [
+        "delirianty",
+        "alkaloidy",
+        "pochodzenie roślinne",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "Gałka muszkatołowa",
+      "inna nazwa": [
+        "gała",
+        "gałka",
+        "nutmeg"
+      ],
+      "odmiany": [
+        "gałki",
+        "gałce",
+        "gałkę",
+        "gałki",
+        "gały",
+        "gale",
+        "gałę",
+        "gałą"
+      ],
+      "nazwa gatunkowa": [
+        "Muszkatołowiec korzenny",
+        "Myristica fragrans"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "miryscytyna"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Powój hawajski",
+      "inna nazwa": [
+        "HBWR"
+      ],
+      "odmiany": [
+        "powoju hawajskiego",
+        "powojem hawajskim",
+        "powojowi hawajskiemu",
+        "powoju hawajskim",
+        "argyrei"
+      ],
+      "nazwa gatunkowa": [
+        "Powój hawajski",
+        "Argyreia nervosa"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "powoje",
+        "LSA"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Rivea corymbosa",
+      "inna nazwa": [
+        "Ololiúqui"
+      ],
+      "nazwa gatunkowa": [
+        "Rivea corymbosa"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "powoje",
+        "LSA"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Ipomoea violacea",
+      "inna nazwa": [
+        "Morning Glory",
+        "wilec",
+        "wilec fioletowy",
+        "tlilitzin"
+      ],
+      "odmiany": [
+        "wilca",
+        "wilcem",
+        "wilcowi",
+        "wilcu",
+        "ipomei"
+      ],
+      "nazwa gatunkowa": [
+        "Ipomoea violacea"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "powoje",
+        "LSA"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Ruta stepowa",
+      "inna nazwa": [
+        "Poganek rutowaty",
+        "Ruta syryjska",
+        "ruta"
+      ],
+      "odmiany": [
+        "ruty",
+        "rucie",
+        "rutą",
+        "rutę"
+      ],
+      "nazwa gatunkowa": [
+        "Poganek rutowaty",
+        "Peganum harmala"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "ayahuasca",
+        "IMAO",
+        "beta-karboliny"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Banisteriopsis caapi",
+      "inna nazwa": [
+        "caapi",
+        "liana dusz",
+        "pnącze duchów"
+      ],
+      "nazwa gatunkowa": [
+        "Banisteriopsis caapi"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "ayahuasca",
+        "IMAO",
+        "beta-karboliny"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Anadenanthera peregrina",
+      "inna nazwa": [
+        "Yopo",
+        "Cohoba",
+        "Parica"
+      ],
+      "nazwa gatunkowa": [
+        "Anadenanthera peregrina"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Szałwia wieszcza",
+      "inna nazwa": [
+        "boska szałwia",
+        "SD",
+        "sally",
+        "salvia",
+        "szałwia czarownika"
+      ],
+      "odmiany": [
+        "salvi",
+        "salvią",
+        "salvię",
+        "boską szałwią",
+        "boską szałwię",
+        "boskiej szałwi"
+      ],
+      "nazwa gatunkowa": [
+        "Szałwia wieszcza",
+        "Salvia divinorum"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "dysocjanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Mak lekarski",
+      "inna nazwa": [
+        "mak"
+      ],
+      "odmiany": [
+        "maku lekarskiego",
+        "makowi lekarskiemu",
+        "makiem lekarskim",
+        "maku lekarskim",
+        "makiem",
+        "maku",
+        "makowi"
+      ],
+      "nazwa gatunkowa": [
+        "Mak lekarski",
+        "Papaver somniferum"
+      ],
+      "kategoria": [
+        "rośliny",
+        "depresanty",
+        "opiaty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Calea zacatechichi",
+      "inna nazwa": [
+        "dream herb",
+        "zioło snu"
+      ],
+      "odmiany": [
+        "caleę",
+        "calei",
+        "caleą"
+      ],
+      "nazwa gatunkowa": [
+        "Calea ternifolia",
+        "Calea zacatechichi"
+      ],
+      "kategoria": [
+        "rośliny",
+        "zioła snów"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Silene Capensis",
+      "inna nazwa": [
+        "african dream root",
+        "afrykański korzeń snów",
+        "ADR"
+      ],
+      "nazwa gatunkowa": [
+        "Silene undulata",
+        "Silene Capensis"
+      ],
+      "kategoria": [
+        "rośliny",
+        "zioła snów"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Synaptolepis kirkii",
+      "inna nazwa": [
+        "Uvuma-omhlope"
+      ],
+      "nazwa gatunkowa": [
+        "Synaptolepis kirkii"
+      ],
+      "kategoria": [
+        "rośliny",
+        "zioła snów"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Kava Kava",
+      "inna nazwa": [
+        "Pieprz metystynowy",
+        "kava",
+        "awa"
+      ],
+      "odmiany": [
+        "kavę",
+        "kavy",
+        "kavą",
+        "kavie"
+      ],
+      "nazwa gatunkowa": [
+        "Piper methysticum",
+        "Pieprz metystynowy"
+      ],
+      "kategoria": [
+        "rośliny",
+        "stymulanty",
+        "relaksanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "mulungu",
+      "inna nazwa": [],
+      "nazwa gatunkowa": [
+        "Erythrina mulungu"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "klip dagga",
+      "nazwa gatunkowa": [
+        "Leonotis nepetifolia"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "wild dagga",
+      "inna nazwa": [
+        "dagga",
+        "lion's tail"
+      ],
+      "nazwa gatunkowa": [
+        "Leonotis leonurus"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Glistnik jaskółcze ziele",
+      "inna nazwa": [
+        "glistnik",
+        "jaskółcze ziele"
+      ],
+      "odmiany": [
+        "glitnika",
+        "glistnikiem",
+        "glistniku",
+        "glistnikowi"
+      ],
+      "nazwa gatunkowa": [
+        "Glistnik jaskółcze ziele",
+        "Chelidonium majus"
+      ],
+      "kategoria": [
+        "rośliny",
+        "depresanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Sałata jadowita",
+      "inna nazwa": [
+        "Lettucene"
+      ],
+      "odmiany": [
+        "sałaty jadowitej",
+        "sałacie jadowitej",
+        "salatą jadowitą",
+        "sałatę jadowitą"
+      ],
+      "nazwa gatunkowa": [
+        "Sałata jadowita",
+        "Lactuca virosa"
+      ],
+      "kategoria": [
+        "rośliny",
+        "depresanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "damiana",
+      "inna nazwa": [
+        "Turnera rozproszona"
+      ],
+      "odmiany": [
+        "damiany",
+        "damianie",
+        "damianę",
+        "damianą"
+      ],
+      "nazwa gatunkowa": [
+        "Turnera diffusa",
+        "Turnera aphrodisiaca"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty",
+        "afrodyzjaki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Maconha Brava",
+      "nazwa gatunkowa": [
+        "Zornia latifolia"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Catuaba",
+      "inna nazwa": [],
+      "nazwa gatunkowa": [
+        "Erythroxylum catuaba"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty",
+        "afrodyzjaki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Passiflora",
+      "inna nazwa": [
+        "Męczennica"
+      ],
+      "odmiany": [
+        "passiflory",
+        "passiflorze",
+        "passiflorę",
+        "passiflorą"
+      ],
+      "nazwa gatunkowa": [
+        "Passiflora incarnata",
+        "Męczennica cielista"
+      ],
+      "kategoria": [
+        "rośliny",
+        "relaksanty",
+        "IMAO"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Voacanga africana",
+      "inna nazwa": [
+        "oczy duszy"
+      ],
+      "odmiany": [
+        "voacangi",
+        "voacandze",
+        "voacangę",
+        "voacangą"
+      ],
+      "nazwa gatunkowa": [
+        "Voacanga africana"
+      ],
+      "kategoria": [
+        "rośliny",
+        "stymulanty",
+        "psychodeliki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Sceletium tortuosum",
+      "inna nazwa": [
+        "kanna",
+        "kougoed"
+      ],
+      "odmiany": [
+        "kanny",
+        "kannie",
+        "kanną",
+        "kannę"
+      ],
+      "nazwa gatunkowa": [
+        "Sceletium tortuosum"
+      ],
+      "kategoria": [
+        "rośliny",
+        "stymulanty",
+        "relaksanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Kratom",
+      "inna nazwa": [
+        "kratum"
+      ],
+      "odmiany": [
+        "kratomu",
+        "kratomie",
+        "kratomem",
+        "kratomowi"
+      ],
+      "nazwa gatunkowa": [
+        "Mitragyna speciosa"
+      ],
+      "kategoria": [
+        "rośliny",
+        "depresanty",
+        "relaksanty",
+        "opioidy"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Epena",
+      "inna nazwa": [
+        "Cumala",
+        "Parica"
+      ],
+      "nazwa gatunkowa": [
+        "Virola theiodora"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "DMT"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Corynanthe yohimbe",
+      "inna nazwa": [
+        "Pausynistalia yohimba"
+      ],
+      "nazwa gatunkowa": [
+        "Corynanthe Yohimbe",
+        "Johimba lekarska"
+      ],
+      "kategoria": [
+        "rośliny",
+        "stymulanty",
+        "afrodyzjaki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "Tabernanthe iboga",
+      "inna nazwa": [
+        "iboga",
+        "eboga"
+      ],
+      "odmiany": [
+        "ibogi",
+        "ibodze",
+        "ibogą",
+        "ibogę"
+      ],
+      "nazwa gatunkowa": [
+        "Tabernanthe iboga"
+      ],
+      "kategoria": [
+        "rośliny",
+        "psychodeliki",
+        "afrodyzjaki"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "krasnodrzew",
+      "inna nazwa": [
+        "krzew kokainowy",
+        "koka"
+      ],
+      "odmiany": [
+        "krasnodrzewu",
+        "krasnodrzewem",
+        "krasnodrzewie",
+        "krzewowi kokainowemu",
+        "krzewem kokainowym",
+        "krzewu kokainowego",
+        "krzewie kokainowym"
+      ],
+      "nazwa gatunkowa": [
+        "Krasnodrzew pospolity",
+        "Erythroxylum coca"
+      ],
+      "kategoria": [
+        "rośliny",
+        "stymulanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "khat",
+      "inna nazwa": [
+        "qat"
+      ],
+      "odmiany": [
+        "khatu",
+        "khatem",
+        "khacie",
+        "khatowi"
+      ],
+      "nazwa gatunkowa": [
+        "Czuwaliczka jadalna",
+        "Catha edulis"
+      ],
+      "kategoria": [
+        "rośliny",
+        "stymulanty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "ayahuaska",
+      "inna nazwa": [
+        "ayahuasca",
+        "yage",
+        "aya"
+      ],
+      "odmiany": [
+        "ayahuaski",
+        "ayahuaskę",
+        "ayahuaską",
+        "ayahuasce",
+        "ayahuascy",
+        "ayahuascą",
+        "ayahuascę"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne",
+        "DMT",
+        "IMAO",
+        "ayahuasca"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "makiwara",
+      "odmiany": [
+        "makiwary",
+        "makiwarę",
+        "makiwarą",
+        "makiwarze"
+      ],
+      "kategoria": [
+        "depresanty",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne",
+        "opioidy",
+        "opiaty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "PST",
+      "inna nazwa": [
+        "Poppy Seed Tea",
+        "przepłuczka"
+      ],
+      "odmiany": [
+        "przepłuczki",
+        "przepłuczkę",
+        "przepłuczką",
+        "przepłuczce"
+      ],
+      "kategoria": [
+        "depresanty",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne",
+        "opioidy",
+        "opiaty"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "maść czarownic",
+      "inna nazwa": [
+        "maści wiedźmie"
+      ],
+      "odmiany": [
+        "maści czarownic",
+        "maścią czarownic"
+      ],
+      "kategoria": [
+        "delirianty",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne",
+        "psiankowate",
+        "alkaloidy tropanowe"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "betel",
+      "inna nazwa": [
+        "prymka betelowa",
+        "paan"
+      ],
+      "odmiany": [
+        "betelem",
+        "betelowi",
+        "betelu"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "relaksanty",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "cimora",
+      "inna nazwa": [
+        "timora"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "kinnikinnick",
+      "inna nazwa": [],
+      "kategoria": [
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "ubulawu",
+      "inna nazwa": [
+        "dream herbs"
+      ],
+      "kategoria": [
+        "zioła snów",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne"
+      ],
+      "hyperkategoria": [
+        "natura"
+      ]
+    }
+  ]
+}
