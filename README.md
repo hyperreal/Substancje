@@ -20,7 +20,7 @@ w postaci "pull requests".
 
 Włożyliśmy sporo pracy, aby przygotować niniejszy zbiór i chcemy, aby
 był używany powszechnie i uzupełniany. Dlatego opatrzyliśmy go licencją 
-[Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
+[Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 Kopię licencji znajdziesz w pliku LICENSE.txt w niniejszym repozytorium.
 
 Zezwala się na kopiowanie, dystrybucję, wyświetlanie i użytkowanie pochodnych
