@@ -75,6 +75,9 @@
         "pochodzenie roślinne",
         "THC"
       ],
+                  "obrazek": [
+              "File:Hash_01.jpg"
+      ],
       "hyperkategoria": [
         "natura"
       ]
@@ -86,6 +89,9 @@
         "opiaty",
         "opioidy",
         "pochodzenie roślinne"
+      ],
+            "obrazek": [
+              "File:Apothecary_vessel_Opium_18-19_century.jpg"
       ],
       "hyperkategoria": [
         "natura"
@@ -5415,6 +5421,9 @@
         "psychodeliki",
         "miryscytyna"
       ],
+              "obrazek": [
+              "File:Muskatnussbaum_Zenker.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5441,6 +5450,9 @@
         "powoje",
         "LSA"
       ],
+               "obrazek": [
+              "File:Starr_050107-2974_Argyreia_nervosa.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5451,7 +5463,8 @@
         "Ololiúqui"
       ],
       "nazwa gatunkowa": [
-        "Rivea corymbosa"
+        "Rivea corymbosa",
+        "Turbina corymbosa"
       ],
       "kategoria": [
         "rośliny",
@@ -5459,6 +5472,9 @@
         "powoje",
         "LSA"
       ],
+               "obrazek": [
+              "File:Turbina_corymbosa_(Ipomoea_cymosa)_Bot._Reg._29._24._1843.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5487,6 +5503,9 @@
         "powoje",
         "LSA"
       ],
+               "obrazek": [
+              "File:Ipomoea violacea illustration.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5515,6 +5534,9 @@
         "IMAO",
         "beta-karboliny"
       ],
+              "obrazek": [
+              "File:Peganum-harmala-nps.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5536,6 +5558,9 @@
         "IMAO",
         "beta-karboliny"
       ],
+             "obrazek": [
+              "File:Banisteriopsis-caapi-vine2.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5554,6 +5579,9 @@
         "rośliny",
         "psychodeliki"
       ],
+              "obrazek": [
+              "File:Anadenanthera-peregrina-bw.png"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5584,6 +5612,9 @@
         "psychodeliki",
         "dysocjanty"
       ],
+             "obrazek": [
+              "File:Salvia_divinorum_-_Herba_de_Maria.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5612,6 +5643,9 @@
         "opiaty",
         "opioidy"
       ],
+              "obrazek": [
+              "File:Mohn_z10.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5635,6 +5669,9 @@
         "rośliny",
         "zioła snów"
       ],
+               "obrazek": [
+              "File:Youngkava.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5696,6 +5733,9 @@
         "stymulanty",
         "relaksanty"
       ],
+               "obrazek": [
+              "File:Youngkava.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5723,6 +5763,9 @@
         "rośliny",
         "relaksanty"
       ],
+              "obrazek": [
+              "File:Leonotis_nepetifolia1.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5740,6 +5783,9 @@
         "rośliny",
         "relaksanty"
       ],
+              "obrazek": [
+              "File:Leonotis_leonorus10.jpg"
+                ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5764,6 +5810,10 @@
         "rośliny",
         "depresanty"
       ],
+                  ],
+              "obrazek": [
+              "File:Białowieża glistnik jaskółcze ziele.jpg"
+            ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5787,6 +5837,10 @@
         "rośliny",
         "depresanty"
       ],
+            ],
+               "obrazek": [
+              "File:Lactuca_virosa_15052003.JPG"
+       ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5810,6 +5864,9 @@
         "rośliny",
         "relaksanty",
         "afrodyzjaki"
+      ],
+               "obrazek": [
+              "File:Turnera_diffusa_damiana_1.jpg"
       ],
       "hyperkategoria": [
         "natura"
@@ -5863,6 +5920,9 @@
         "relaksanty",
         "IMAO"
       ],
+              "obrazek": [
+              "File:Passionflower.jpg"
+      ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5885,6 +5945,9 @@
         "rośliny",
         "stymulanty",
         "psychodeliki"
+      ],
+               "obrazek": [
+              "File:Voacanga africana.jpg"
       ],
       "hyperkategoria": [
         "natura"
@@ -5910,6 +5973,9 @@
         "stymulanty",
         "relaksanty"
       ],
+               "obrazek": [
+              "File:Kanna_plant.jpg"
+      ],
       "hyperkategoria": [
         "natura"
       ]
@@ -5933,6 +5999,9 @@
         "depresanty",
         "relaksanty",
         "opioidy"
+      ],
+                  "obrazek": [
+              "File:Mitragyna_speciosa085.JPG"
       ],
       "hyperkategoria": [
         "natura"
@@ -5994,6 +6063,9 @@
         "psychodeliki",
         "afrodyzjaki"
       ],
+            "obrazek": [
+              "Tabernanthe_iboga_MS_4098.jpg"
+      ],
       "hyperkategoria": [
         "natura"
       ]
@@ -6021,6 +6093,9 @@
         "rośliny",
         "stymulanty"
       ],
+            "obrazek": [
+              "File:File:Colcoca01.jpg"
+      ],
       "hyperkategoria": [
         "natura"
       ]
@@ -6043,6 +6118,9 @@
       "kategoria": [
         "rośliny",
         "stymulanty"
+      ],
+            "obrazek": [
+              "File:Catha_edulis.jpg"
       ],
       "hyperkategoria": [
         "natura"
@@ -6071,6 +6149,9 @@
         "DMT",
         "IMAO",
         "ayahuasca"
+      ],
+            "obrazek": [
+              "File:Ayahuasca_2010.jpg"
       ],
       "hyperkategoria": [
         "natura"
@@ -6154,6 +6235,9 @@
         "relaksanty",
         "preparaty psychoaktywne",
         "pochodzenie roślinne"
+      ],
+            "obrazek": [
+              "File:Betel_leaf_betel_nuts_and_lime.jpg"
       ],
       "hyperkategoria": [
         "natura"
