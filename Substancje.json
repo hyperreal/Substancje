@@ -48,6 +48,7 @@
       "obrazek": [
         "File:ST-3-bud.jpg"
       ],
+      "neurogroove": "Marihuana",
       "hyperkategoria": [
         "natura"
       ]
@@ -78,6 +79,7 @@
       "obrazek": [
         "File:Hash_01.jpg"
       ],
+      "neurogroove": "Marihuana",
       "hyperkategoria": [
         "natura"
       ]
@@ -93,6 +95,7 @@
       "obrazek": [
         "File:Apothecary_vessel_Opium_18-19_century.jpg"
       ],
+      "neurogroove": "Opium",
       "hyperkategoria": [
         "natura"
       ]
@@ -216,7 +219,7 @@
       "kategoria": [
         "inhalanty"
       ],
-      "neurogroove": "Inhalanty",
+      "neurogroove": "N2O (gaz rozweselający)",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1295,6 +1298,7 @@
         "tryptaminy",
         "lizergamidy"
       ],
+      "neurogroove": "LSD-25",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1442,6 +1446,7 @@
         "laktony",
         "modulatory GABA"
       ],
+      "neurogroove": "GBL (gamma-Butyrolakton)",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1462,6 +1467,7 @@
         "laktony",
         "modulatory GABA"
       ],
+      "neurogroove": "GHB ("pigułka gwałtu")",
       "hyperkategoria": [
         "chemia"
       ]
@@ -2873,6 +2879,7 @@
         "antagonisty receptora NMDA",
         "piperydyny"
       ],
+      "neurogroove": "PCP (Fencyklidyna)",
       "hyperkategoria": [
         "chemia"
       ]
@@ -3144,6 +3151,7 @@
         "psychodeliki",
         "trimetoksyamfetaminy"
       ],
+      "neurogroove": "TMA 2 (trimetoksyamfetamina)",
       "hyperkategoria": [
         "chemia"
       ]
@@ -3250,6 +3258,7 @@
         "empatogeny",
         "stymulanty"
       ],
+      "neurogroove": "MDMA (Ecstasy)",
       "hyperkategoria": [
         "chemia"
       ]
@@ -4133,6 +4142,7 @@
         "alfa-pirolidynoalkilofenony",
         "beta-ketony"
       ],
+      
       "hyperkategoria": [
         "chemia"
       ]
@@ -4272,6 +4282,7 @@
         "beta-ketony",
         "katynony"
       ],
+      "neurogroove": "Metkatynon (Efedron)",
       "hyperkategoria": [
         "chemia"
       ]
