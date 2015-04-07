@@ -1055,6 +1055,7 @@
       "inna nazwa": [
         "metocyna",
         "mahomet",
+        "homet",
         "4-hydroksy-N-metylo-N-etylotryptamina"
       ],
       "odmiany": [
@@ -1062,6 +1063,10 @@
         "metocynie",
         "metocyną",
         "metocynę",
+        "hometa",
+        "hometem",
+        "homecie",
+        "hometowi",
         "mahometa",
         "mahometowi",
         "mahometem",
@@ -3910,6 +3915,11 @@
       ],
       "wzor chemiczny": [
         "CC1=CC(=C(C=C1OC)CC(C)N)OC"
+      ],
+        "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy",
+        "DOx"
       ],
       "hyperkategoria": [
         "chemia"
