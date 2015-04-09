@@ -48,7 +48,7 @@
       "obrazek": [
         "File:ST-3-bud.jpg"
       ],
-      "neurogroove": "Marihuana",
+      "neurogroove": "marihuana",
       "hyperkategoria": [
         "natura"
       ]
@@ -79,7 +79,7 @@
       "obrazek": [
         "File:Hash_01.jpg"
       ],
-      "neurogroove": "Marihuana",
+      "neurogroove": "marihuana",
       "hyperkategoria": [
         "natura"
       ]
@@ -95,7 +95,7 @@
       "obrazek": [
         "File:Apothecary_vessel_Opium_18-19_century.jpg"
       ],
-      "neurogroove": "Opium",
+      "neurogroove": "opium-0",
       "hyperkategoria": [
         "natura"
       ]
@@ -163,7 +163,7 @@
       "kategoria": [
         "inhalanty"
       ],
-      "neurogroove": "Inhalanty",
+      "neurogroove": "inhalanty",
       "hyperkategoria": [
         "chemia"
       ]
@@ -189,7 +189,7 @@
       "kategoria": [
         "inhalanty"
       ],
-      "neurogroove": "Inhalanty",
+      "neurogroove": "inhalanty",
       "hyperkategoria": [
         "chemia"
       ]
@@ -219,7 +219,7 @@
       "kategoria": [
         "inhalanty"
       ],
-      "neurogroove": "N2O (gaz rozweselający)",
+      "neurogroove": "inhalanty",
       "hyperkategoria": [
         "chemia"
       ]
@@ -254,7 +254,7 @@
       "kategoria": [
         "depresanty"
       ],
-      "neurogroove": "etanol (alkohol)",
+      "neurogroove": "etanol-alkohol",
       "hyperkategoria": [
         "chemia"
       ]
@@ -281,6 +281,7 @@
         "psychodeliki",
         "pochodzenie roślinne"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -601,6 +602,7 @@
         "depresanty",
         "opioidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -625,6 +627,7 @@
         "depresanty",
         "opioidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -651,7 +654,7 @@
         "opioidy"
       ],
       "hyperkategoria": [
-        "apteka"
+        "chemia"
       ]
     },
     {
@@ -713,6 +716,7 @@
         "psychodeliki",
         "pochodzenie roślinne"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -736,6 +740,7 @@
         "alkaloidy",
         "izoksazole"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -763,6 +768,7 @@
         "alkaloidy",
         "izoksazole"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -788,6 +794,7 @@
         "dysocjanty",
         "dwuterpeny"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -815,6 +822,7 @@
         "beta-karboliny",
         "alkaloidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -841,6 +849,7 @@
         "beta-karboliny",
         "alkaloidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -927,6 +936,7 @@
         "indole",
         "tryptaminy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -946,6 +956,7 @@
         "indole",
         "tryptaminy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -972,6 +983,7 @@
         "tryptaminy",
         "alkaloidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -991,6 +1003,7 @@
       "wzor chemiczny": [
         "Oc1cccc2c1c(cn2)CCN(C)C"
       ],
+      "neurogroove": "Inne",
       "kategoria": [
         "psychodeliki",
         "indole",
@@ -1023,6 +1036,7 @@
         "tryptaminy",
         "alkaloidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1053,6 +1067,7 @@
         "pochodzenie roślinne",
         "pochodzenie zwierzęce"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1158,6 +1173,7 @@
         "indole",
         "tryptaminy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1217,6 +1233,7 @@
         "tryptaminy",
         "stymulanty"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1327,6 +1344,7 @@
         "pochodzenie roślinne",
         "alkaloidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1352,6 +1370,7 @@
         "tryptaminy",
         "lizergamidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1370,6 +1389,7 @@
         "tryptaminy",
         "lizergamidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1389,6 +1409,7 @@
         "tryptaminy",
         "lizergamidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1408,6 +1429,7 @@
         "tryptaminy",
         "lizergamidy"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1446,7 +1468,7 @@
         "laktony",
         "modulatory GABA"
       ],
-      "neurogroove": "GBL (gamma-Butyrolakton)",
+      "neurogroove": "gbl-gamma-butyrolakton",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1467,7 +1489,7 @@
         "laktony",
         "modulatory GABA"
       ],
-      "neurogroove": "GHB ("pigułka gwałtu")",
+      "neurogroove": "GHB",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1902,6 +1924,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "neurogroove": "oxazepam",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1986,7 +2009,7 @@
         "depresanty",
         "barbiturany",
         "modulatory GABA"
-      ],
+      ]
       "hyperkategoria": [
         "apteka"
       ]
@@ -2013,6 +2036,7 @@
         "barbiturany",
         "modulatory GABA"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2070,6 +2094,7 @@
         "barbiturany",
         "modulatory GABA"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2094,6 +2119,7 @@
         "barbiturany",
         "modulatory GABA"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2124,6 +2150,7 @@
       "kategoria": [
         "antydepresanty"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2232,7 +2259,7 @@
       "kategoria": [
         "antydepresanty",
         "SSRI"
-      ],
+      ]
       "hyperkategoria": [
         "apteka"
       ]
@@ -2262,6 +2289,7 @@
         "antydepresanty",
         "SSRI"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2378,6 +2406,7 @@
         "antyhistaminy",
         "delirianty"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2405,6 +2434,7 @@
         "antyhistaminy",
         "delirianty"
       ],
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
       ]
