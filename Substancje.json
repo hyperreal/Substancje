@@ -49,6 +49,7 @@
         "File:ST-3-bud.jpg"
       ],
       "neurogroove": "marihuana",
+      "talk": marihuana.html,
       "hyperkategoria": [
         "natura"
       ]
@@ -80,6 +81,7 @@
         "File:Hash_01.jpg"
       ],
       "neurogroove": "marihuana",
+      "talk": marihuana.html,
       "hyperkategoria": [
         "natura"
       ]
@@ -96,6 +98,7 @@
         "File:Apothecary_vessel_Opium_18-19_century.jpg"
       ],
       "neurogroove": "opium-0",
+      "talk": "opium-watek-ogolny-t239.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -137,6 +140,7 @@
         "stymulanty",
         "delirianty"
       ],
+      "talk": "benzydamina.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -164,6 +168,7 @@
         "inhalanty"
       ],
       "neurogroove": "inhalanty",
+      "talk": "topic12367.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -190,6 +195,7 @@
         "inhalanty"
       ],
       "neurogroove": "inhalanty",
+      "talk": "butan-topic13015.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -220,6 +226,7 @@
         "inhalanty"
       ],
       "neurogroove": "inhalanty",
+      "talk": "topic261.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -255,6 +262,7 @@
         "depresanty"
       ],
       "neurogroove": "etanol-alkohol",
+      "talk": "etanol.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -282,6 +290,7 @@
         "pochodzenie roślinne"
       ],
       "neurogroove": "Inne",
+      "talk": "topic199.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -314,6 +323,7 @@
         "alkaloidy",
         "pochodzenie roślinne"
       ],
+      "talk": "kokaina.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -371,6 +381,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "morfina-heroina.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -416,6 +427,7 @@
         "pochodzenie roślinne",
         "alkaloidy"
       ],
+      "talk": "kodeina.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -450,6 +462,7 @@
         "pochodzenie roślinne",
         "alkaloidy"
       ],
+      "talk": "morfina-heroina.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -487,6 +500,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "fentanyl-watek-ogolny-t210.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -519,6 +533,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "buprenorfina.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -545,6 +560,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "butyr-fentanyl-t35762.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -578,6 +594,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "oksykodon-t15102.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -603,6 +620,7 @@
         "opioidy"
       ],
       "neurogroove": "Inne",
+      "talk": "dezomorfina-t32116.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -628,6 +646,7 @@
         "opioidy"
       ],
       "neurogroove": "Inne",
+      "talk": "dihydrokodeina-watek-ogolny-t12655.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -653,6 +672,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "metadon-watek-ogolny-t18127.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -689,6 +709,7 @@
         "depresanty",
         "opioidy"
       ],
+      "talk": "tramadol.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -717,6 +738,7 @@
         "pochodzenie roślinne"
       ],
       "neurogroove": "Inne",
+      "talk": "muszkato-owa-ekstraktacja-mirystycyny-t12068.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -741,6 +763,7 @@
         "izoksazole"
       ],
       "neurogroove": "Inne",
+      "talk": "amanita-muscaria-tek-ogolny-t10048.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -769,6 +792,7 @@
         "izoksazole"
       ],
       "neurogroove": "Inne",
+      "talk": "amanita-muscaria-tek-ogolny-t10048.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -795,6 +819,7 @@
         "dwuterpeny"
       ],
       "neurogroove": "Inne",
+      "talk": "salvia-divinorum.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -823,6 +848,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic24642.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -850,6 +876,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "harmina-t40773.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -876,6 +903,7 @@
         "tryptaminy",
         "alkaloidy"
       ],
+      "talk": "dmt-t17604.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -900,6 +928,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "dpt-t31422.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -918,6 +947,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic33558.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -937,6 +967,7 @@
         "tryptaminy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic22204.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -957,6 +988,7 @@
         "tryptaminy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic33479.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -984,6 +1016,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic34183.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1010,6 +1043,7 @@
         "tryptaminy",
         "alkaloidy"
       ],
+      "talk": "psylocyna-grzybow-halucynogennych-t32285.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1037,6 +1071,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic29739.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1068,6 +1103,7 @@
         "pochodzenie zwierzęce"
       ],
       "neurogroove": "Inne",
+      "talk": "topic37200.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1102,6 +1138,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic40225.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1129,6 +1166,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic40224.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1154,6 +1192,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic27622.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1174,6 +1213,7 @@
         "tryptaminy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic25143.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1193,6 +1233,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic31769.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1214,6 +1255,7 @@
         "stymulanty",
         "IMAO"
       ],
+      "talk": "topic19052.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1234,6 +1276,7 @@
         "stymulanty"
       ],
       "neurogroove": "Inne",
+      "talk": "topic30229.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1254,6 +1297,7 @@
         "pochodzenie roślinne",
         "alkaloidy"
       ],
+      "talk": "topic21288.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1274,6 +1318,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic20319.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1292,6 +1337,7 @@
         "indole",
         "tryptaminy"
       ],
+      "talk": "topic27115.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1316,6 +1362,7 @@
         "lizergamidy"
       ],
       "neurogroove": "LSD-25",
+      "talk": "lsd-watek-ogolny-t201.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1345,6 +1392,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "lsd-lsa-t12793.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1371,6 +1419,7 @@
         "lizergamidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic39374.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1390,6 +1439,7 @@
         "lizergamidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic38663.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1410,6 +1460,7 @@
         "lizergamidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic20163.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1430,6 +1481,7 @@
         "lizergamidy"
       ],
       "neurogroove": "Inne",
+      "talk": "topic20163.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1469,6 +1521,7 @@
         "modulatory GABA"
       ],
       "neurogroove": "gbl-gamma-butyrolakton",
+      "talk": "gbl-ghb.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1490,6 +1543,7 @@
         "modulatory GABA"
       ],
       "neurogroove": "GHB",
+      "talk": "gbl-ghb.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -1529,6 +1583,7 @@
         "depresanty",
         "modulatory GABA"
       ],
+      "talk": "zolpidem-watek-ogolny-t10001.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1559,6 +1614,7 @@
         "depresanty",
         "modulatory GABA"
       ],
+      "talk": "zopiklon-watek-ogolny-t26867.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1595,6 +1651,7 @@
         "depresanty",
         "modulatory GABA"
       ],
+      "talk": "baklofen-watek-ogolny-t13083.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1648,6 +1705,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "alprazolam-watek-ogolny-t10234.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1685,6 +1743,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "clonazepamum-klonazepam-watek-ogolny-t187.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1720,6 +1779,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "lorazepam-watek-ogolny-t12550.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1755,6 +1815,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "diazepam-watek-ogolny-t195.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1783,6 +1844,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "estazolam-watek-ogolny-t11741.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1812,6 +1874,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "etizolam-watek-ogolny-t32007.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1839,6 +1902,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "nitrazepam-watek-ogolny-t11284.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1869,6 +1933,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "tetrazepam-watek-ogolny-t10063.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1896,6 +1961,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "temazepam-watek-ogolny-t11029.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1925,6 +1991,7 @@
         "modulatory GABA"
       ],
       "neurogroove": "oxazepam",
+      "talk": "oxazepam-watek-ogolny-t10121.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1952,6 +2019,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "fenazepam-watek-ogolny-t20015.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -1979,6 +2047,7 @@
         "benzodiazepiny",
         "modulatory GABA"
       ],
+      "talk": "flunitrazepam-watek-ogolny-t11523.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2010,6 +2079,7 @@
         "barbiturany",
         "modulatory GABA"
       ],
+      "talk": "fenobarbital-tek-ogolny-t15754.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2037,6 +2107,7 @@
         "modulatory GABA"
       ],
       "neurogroove": "Inne",
+      "talk": "topic32267.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2063,6 +2134,7 @@
         "barbiturany",
         "modulatory GABA"
       ],
+      "talk": "allobarbital-watek-ogolny-t20674.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2095,6 +2167,7 @@
         "modulatory GABA"
       ],
       "neurogroove": "Inne",
+      "talk": "barbital-weronal-watek-ogolny-t15283.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2120,6 +2193,7 @@
         "modulatory GABA"
       ],
       "neurogroove": "Inne",
+      "talk": "topic32267.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2151,6 +2225,7 @@
         "antydepresanty"
       ],
       "neurogroove": "Inne",
+      "talk": "mianseryna-nassa-tek-ogolny-t17544.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2188,6 +2263,7 @@
         "antydepresanty",
         "SSRI"
       ],
+      "talk": "sertralina-ssri-tek-ogolny-t14351.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2221,6 +2297,7 @@
         "antydepresanty",
         "SSRI"
       ],
+      "talk": "paroksetyna-ssri-watek-ogolny-t13157.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2260,6 +2337,7 @@
         "antydepresanty",
         "SSRI"
       ],
+      "talk": "fluoksetyna-ssri-tek-ogolny-t10855.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2290,6 +2368,7 @@
         "SSRI"
       ],
       "neurogroove": "Inne",
+      "talk": "citalopram-ssri-tek-ogolny-t12396.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2322,6 +2401,7 @@
         "antydepresanty",
         "SNRI"
       ],
+      "talk": "wenlafaksyna-snri-tek-ogolny-t16828.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2353,6 +2433,7 @@
         "antyhistaminy",
         "delirianty"
       ],
+      "talk": "dimenhydrynat-tek-ogolny-t164.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2380,6 +2461,7 @@
         "antyhistaminy",
         "delirianty"
       ],
+      "talk": "post1746334.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2407,6 +2489,7 @@
         "delirianty"
       ],
       "neurogroove": "Inne",
+      "talk": "prometazyna-tek-ogolny-t36116.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -2435,6 +2518,7 @@
         "delirianty"
       ],
       "neurogroove": "Inne",
+      "talk": "difenhydramina-watek-ogolny-t13200.html",
       "hyperkategoria": [
         "apteka"
       ]
