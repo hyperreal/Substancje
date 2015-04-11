@@ -4975,6 +4975,24 @@
         "1-metyloteobromina ",
         "Coffeinum "
       ],
+       "odmiany": [
+        "kofeiny",
+        "kofeinę",
+        "kofeiną",
+        "kofeinie",
+        "mateinę",
+        "mateinie",
+        "mateiną",
+        "mateiny",
+        "teiny",
+        "teinę",
+        "teiną",
+        "teinie",
+        "guaraninę",
+        "guaraninie",
+        "guaraniną",
+        "guaraniny"
+      ],
       "wzor chemiczny": [
         "CN1C=NC2=C1C(=O)N(C(=O)N2C)C"
       ],
