@@ -5203,6 +5203,7 @@
         "alkaloidy",
         "pochodzenie roślinne"
       ],
+      "talk": "kofeina-tek-ogolny-t406.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -5230,6 +5231,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "ibogaina-jak-tego-uzyc-t42850.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -5259,6 +5261,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "johimbina-t26975.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -5284,6 +5287,7 @@
         "alkaloidy"
       ],
       "neurogroove": "Inne",
+      "talk": "nikotyna-t27277.html",
       "hyperkategoria": [
         "chemia"
       ]
@@ -5317,6 +5321,7 @@
         "File:Lophophora_williamsii_ies.jpg"
       ],
       "neurogroove": "lophophora-williamsii-meskalina",
+      "talk": "pejotl-tek-ogolny-t10697.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5368,6 +5373,7 @@
         "File:Psilocybe.semilanceata.Alan.jpg"
       ],
       "neurogroove": "grzyby-halucynogenne",
+      "talk": "grzyby.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5391,6 +5397,7 @@
         "File:Starr_070320-5799_Echinopsis_pachanoi.jpg"
       ],
       "neurogroove": "trichocereus-pachanoi-san-pedro",
+      "talk": "san-pedro-t384.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5428,6 +5435,7 @@
         "File:Mimosa_tenuiflora_%E2%80%94_Jo%C3%A3o_de_Deus_Medeiros_003.jpg"
       ],
       "neurogroove": "mimosa-hostilis",
+      "talk": "jurema-t26985.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5457,6 +5465,7 @@
         "Plik:Diplopterys_cabrerana.jpeg"
       ],
       "neurogroove": "Inne",
+      "talk": "ayahuasca.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5485,6 +5494,7 @@
         "File:Psychotria_viridis.gif"
       ],
       "neurogroove": "Inne",
+      "talk": "ayahuasca.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5520,6 +5530,7 @@
         "File:Tabak_9290019.JPG"
       ],
       "neurogroove": "tyto",
+      "talk": "tyto-tek-ogolny-t30832.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5557,6 +5568,7 @@
         "File:2006-10-25_Amanita_muscaria_crop.jpg"
       ],
       "neurogroove": "muchomor-czerwony",
+      "talk": "amanita-muscaria-watek-ogolny-t10048.html",
       "kategoria": [
         "grzyby",
         "psychodeliki"
@@ -5584,6 +5596,7 @@
         "psychodeliki"
       ],
       "neurogroove": "muchomor-czerwony",
+      "talk": "amanita-pantherina-watek-ogolny-t11650.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5622,6 +5635,7 @@
         "File:Datura_stramonium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-051.jpg"
       ],
       "neurogroove": "bielu-dzi-dzierzawa",
+      "talk": "bielu-dzi-dzierzawa-datura-stramonium-watek-ogolny-t309.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5659,6 +5673,7 @@
         "File:Atropa_belladonna_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-018.jpg"
       ],
       "neurogroove": "atropa-belladonna-pokrzyk-wilcza-jagoda",
+      "talk": "pokrzyk-wilcza-jagoda-atropa-belladonna-t10068.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5690,6 +5705,7 @@
         "File:Henbane2.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "lulek-czarny-hyoscyamus-niger-t11008.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5719,6 +5735,7 @@
         "File:Alraune-Kreta.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "mandragora-t17752.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5745,6 +5762,7 @@
         "alkaloidy tropanowe"
       ],
       "neurogroove": "Inne",
+      "talk": "atropina-jej-pochodne-inne-tropany-t28009.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -5770,6 +5788,7 @@
         "pochodzenie roślinne",
         "alkaloidy tropanowe"
       ],
+      "talk": "skopolamina-watek-ogolny-t16395.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -5796,6 +5815,7 @@
         "alkaloidy tropanowe"
       ],
       "neurogroove": "Inne",
+      "talk": "atropina-jej-pochodne-inne-tropany-t28009.html",
       "hyperkategoria": [
         "apteka"
       ]
@@ -5830,6 +5850,7 @@
         "File:Muskatnussbaum_Zenker.jpg"
       ],
       "neurogroove": "ga-ka-muszkato-owa",
+      "talk": "galka-muszkatolowa.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5860,6 +5881,7 @@
         "File:Starr_050107-2974_Argyreia_nervosa.jpg"
       ],
       "neurogroove": "pow-j-hawajski",
+      "talk": "powoj-hawajski-argyreia-nervosa-tek-ogolny-t215.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5883,6 +5905,7 @@
         "File:Turbina_corymbosa_(Ipomoea_cymosa)_Bot._Reg._29._24._1843.jpg"
       ],
       "neurogroove": "Powoje",
+      "talk": "rivea-corymbosa-czy-kto-probowa-t12155.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5915,6 +5938,7 @@
         "File:Ipomoea violacea illustration.jpg"
       ],
       "neurogroove": "Powoje",
+      "talk": "ipomoea-violacea-morning-glory-tek-ogolny-t22625.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5947,6 +5971,7 @@
         "File:Peganum-harmala-nps.jpg"
       ],
       "neurogroove": "ruta-stepowa",
+      "talk": "ruta-stepowa-tek-ogony-t137.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5972,6 +5997,7 @@
         "File:Banisteriopsis-caapi-vine2.jpg"
       ],
       "neurogroove": "banisteriopsis-caapi",
+      "talk": "ayahuasca.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -5994,6 +6020,7 @@
         "File:Anadenanthera-peregrina-bw.png"
       ],
       "neurogroove": "anadenathera-peregrina",
+      "talk": "yopo-anadenanthera-peregrina-t10144.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6028,6 +6055,7 @@
         "File:Salvia_divinorum_-_Herba_de_Maria.jpg"
       ],
       "neurogroove": "sza-wia-wieszcza",
+      "talk": "salvia-divinorum.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6060,6 +6088,7 @@
         "File:Mohn_z10.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "mak.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6087,6 +6116,7 @@
         "File:Calea_ternifolia.JPG"
       ],
       "neurogroove": "Inne",
+      "talk": "dream-herb-calea-zacatechichi-t419.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6110,6 +6140,7 @@
         "Plik:Silene_Capensis_Root.jpg"
       ],
       "neurogroove": "silene-capensis",
+      "talk": "african-dream-root-silene-capensis-t13130.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6127,6 +6158,7 @@
         "zioła snów"
       ],
       "neurogroove": "Inne",
+      "talk": "ubulawu-t23262-10.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6157,6 +6189,7 @@
         "File:Youngkava.jpg"
       ],
       "neurogroove": "piper-methysticum-kava-kava",
+      "talk": "kava-kava-watek-ogolny-t12653.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6172,6 +6205,7 @@
         "relaksanty"
       ],
       "neurogroove": "Inne",
+      "talk": "mulungu-erythrina-mulungu-t17743.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6189,6 +6223,7 @@
         "File:Leonotis_nepetifolia1.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "leonotis-nepetifolia-klip-dagga-tek-ogolny-t25842.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6210,6 +6245,7 @@
         "File:Leonotis_leonorus10.jpg"
       ],
       "neurogroove": "leonotis-leonurus-wild-dagga",
+      "talk": "wild-dagga-tek-ogolny-t12618.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6238,6 +6274,7 @@
         "File:Białowieża glistnik jaskółcze ziele.jpg"
       ],
       "neurogroove": "chelidonium-majus-glistnik-jask-cze-ziele",
+      "talk": "glistnik-jasko-cze-ziele-t11144.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6265,6 +6302,7 @@
         "File:Lactuca_virosa_15052003.JPG"
       ],
       "neurogroove": "lactuca-virosa",
+      "talk": "ata-jadowita-t162.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6293,6 +6331,7 @@
         "File:Turnera_diffusa_damiana_1.jpg"
       ],
       "neurogroove": "damiana",
+      "talk": "damiana-turnera-aphrodisiaca-t12477.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6307,6 +6346,7 @@
         "relaksanty"
       ],
       "neurogroove": "Inne",
+      "talk": "maconha-brava-zornia-latifolia-t27473.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6326,6 +6366,7 @@
         "Plik:Catuaba.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "catuaba-t27492.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6354,6 +6395,7 @@
         "File:Passionflower.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "passiflora-watek-ogolny-t12844.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6381,6 +6423,7 @@
         "File:Voacanga africana.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "voacanga-africana-t348-60.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6409,6 +6452,7 @@
         "File:Kanna_plant.jpg"
       ],
       "neurogroove": "sceletium-tortuosum",
+      "talk": "kanna-sceletium-tortuosum-watek-ogolny-t184.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6437,6 +6481,7 @@
         "File:Mitragyna_speciosa085.JPG"
       ],
       "neurogroove": "Inne",
+      "talk": "kratom-watek-ogolny-t146.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6459,6 +6504,7 @@
         "Plik:Epena.gif"
       ],
       "neurogroove": "Inne",
+      "talk": "virola-t42918.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6481,6 +6527,7 @@
         "Plik:Kora_yohimbe.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "johimbina-t26975.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6509,6 +6556,7 @@
         "Tabernanthe_iboga_MS_4098.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "iboga-tabernanthe-iboga-watek-ogolny-t13438.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6540,6 +6588,7 @@
         "File:File:Colcoca01.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "uprawa-krasnodrzewu-pospolitego-t23818.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6567,6 +6616,7 @@
         "File:Catha_edulis.jpg"
       ],
       "neurogroove": "Inne",
+      "talk": "khat-watek-ogolny-t253.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6599,6 +6649,7 @@
         "File:Ayahuasca_2010.jpg"
       ],
       "neurogroove": "Ayahuasca",
+      "talk": "ayahuasca.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6619,6 +6670,7 @@
         "opiaty"
       ],
       "neurogroove": "opium-0",
+      "talk": "topic13095.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6646,6 +6698,7 @@
         "Plik:Przepłuczka.jpg"
       ],
       "neurogroove": "opium-0",
+      "talk": "poppy-seed-tea-t19984.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6667,6 +6720,7 @@
         "alkaloidy tropanowe"
       ],
       "neurogroove": "Inne",
+      "talk": "czarownic-t11798.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6692,6 +6746,7 @@
         "File:Betel_leaf_betel_nuts_and_lime.jpg"
       ],
       "neurogroove": "areca-catechu-palma-arekowa-betel",
+      "talk": "orzech-betelowy-betel-nut-areca-catechu-t13967.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6707,6 +6762,7 @@
         "pochodzenie roślinne"
       ],
       "neurogroove": "Inne",
+      "talk": "inne.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6719,6 +6775,7 @@
         "pochodzenie roślinne"
       ],
       "neurogroove": "Inne",
+      "talk": "kinnikinnick-t35085.html",
       "hyperkategoria": [
         "natura"
       ]
@@ -6734,6 +6791,7 @@
         "pochodzenie roślinne"
       ],
       "neurogroove": "Inne",
+      "talk": "topic23262.html",
       "hyperkategoria": [
         "natura"
       ]
