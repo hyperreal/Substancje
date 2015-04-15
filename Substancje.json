@@ -3518,6 +3518,37 @@
       ]
     },
     {
+      "nazwa": "PMMA",
+      "inna nazwa": [
+        "4-metoksymetamfetamina",
+        "para-metoksymetamfetamina"
+        "1-(4-metoksyfenylo)-N-metylo-propano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=C(C=C1)OC)NC"
+      ],
+      "odmiany": [
+        "4-metoksymetamfetaminie",
+        "4-metoksymetamfetaminą",
+        "4-metoksymetamfetaminy",
+        "4-metoksymetamfetaminę",
+        "para-metoksymetamfetaminie",
+        "para-metoksymetamfetaminą",
+        "para-metoksymetamfetaminy",
+        "para-metoksymetamfetaminę"     
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty"
+      ],
+      "neurogroove": "apxx.html",
+      "talk": "topic26554.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
+    },
+    {
       "nazwa": "6-APB",
       "inna nazwa": [
         "benzo fury",
