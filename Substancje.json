@@ -4000,6 +4000,57 @@
       ]
     },
     {
+      "nazwa": "2C-T-7",
+      "wzor chemiczny": [
+        "CCCSC1=C(C=C(C(=C1)OC)CCN)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "talk": "dimetoksyfenetylaminy.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-N",
+      "wzor chemiczny": [
+        "COC1=CC(=C(C=C1CCN)OC)[N+](=O)[O-]"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "talk": "topic34552.html",
+      "neurogroove": "Inne"
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "2C-iP",
+      "inna nazwa": [
+        "2C-Is",
+        "dimetoksy-isopropylofenetylamina",
+        ],
+      "wzor chemiczny": [
+        "CC(C)C1=C(C=C(C(=C1)OC)CCN)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "talk": "topic34552.html",
+      "neurogroove": "Inne"
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
       "nazwa": "25C-NBOMe",
       "inna nazwa": [
         "NBOMe-2C-C",
