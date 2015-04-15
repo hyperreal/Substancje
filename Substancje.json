@@ -5622,6 +5622,29 @@
       ]
     },
     {
+      "nazwa": "Peruvian Torch",
+      "inna nazwa": [
+        "Echinopsis peruviana"
+      ],
+      "nazwa gatunkowa": [
+        "Trichocereus peruvianus"
+      ],
+      "kategoria": [
+        "rośliny",
+        "kaktusy",
+        "psychodeliki",
+        "meskalina"
+      ],
+      "obrazek": [
+        "File:Echinopsis-peruviana.jpg"
+      ],
+      "neurogroove": "peruvian-torch",
+      "talk": "kaktusy.html",
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
       "nazwa": "Mimosa hostilis",
       "inna nazwa": [
         "Mimosa tenuiflora",
@@ -6890,6 +6913,31 @@
       ],
       "neurogroove": "opium-0",
       "talk": "topic13095.html",
+      "hyperkategoria": [
+        "natura"
+      ]
+    },
+    {
+      "nazwa": "changa",
+      "odmiany": [
+        "changi",
+        "changę",
+        "changą",
+        "chandze"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "preparaty psychoaktywne",
+        "pochodzenie roślinne",
+        "DMT",
+        "IMAO",
+        "ayahuasca"
+      ],
+      "obrazek": [
+        "Plik:-substancje-changa.jpeg"
+      ],
+      "neurogroove": "dmt",
+      "talk": "changa-t33183.html",
       "hyperkategoria": [
         "natura"
       ]
