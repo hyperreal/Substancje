@@ -3582,7 +3582,7 @@
       "nazwa": "PMMA",
       "inna nazwa": [
         "4-metoksymetamfetamina",
-        "para-metoksymetamfetamina"
+        "para-metoksymetamfetamina",
         "1-(4-metoksyfenylo)-N-metylo-propano-2-amina"
       ],
       "wzor chemiczny": [
@@ -3596,7 +3596,7 @@
         "para-metoksymetamfetaminie",
         "para-metoksymetamfetaminą",
         "para-metoksymetamfetaminy",
-        "para-metoksymetamfetaminę"     
+        "para-metoksymetamfetaminę"
       ],
       "kategoria": [
         "fenyloetyloaminy",
@@ -3607,7 +3607,7 @@
       "talk": "topic26554.html",
       "hyperkategoria": [
         "chemia"
-      ]  
+      ]
     },
     {
       "nazwa": "6-APB",
@@ -4095,8 +4095,8 @@
       "nazwa": "2C-iP",
       "inna nazwa": [
         "2C-Is",
-        "dimetoksy-isopropylofenetylamina",
-        ],
+        "dimetoksy-isopropylofenetylamina"
+      ],
       "wzor chemiczny": [
         "CC(C)C1=C(C=C(C(=C1)OC)CCN)OC"
       ],
@@ -4286,8 +4286,8 @@
       "hyperkategoria": [
         "chemia"
       ]
-   },
-   {
+    },
+    {
       "nazwa": "DOPR",
       "inna nazwa": [
         "2-amino-1-(2,5-dimetoksy-4-propylofenylo)propan"
@@ -4304,7 +4304,7 @@
       "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
-      ]  
+      ]
     },
     {
       "nazwa": "DOI",
@@ -4896,7 +4896,7 @@
       "talk": "dmmc-t27295.html",
       "hyperkategoria": [
         "chemia"
-      ]  
+      ]
     },
     {
       "nazwa": "brefedron",
@@ -5383,7 +5383,7 @@
       "talk": "topic15267.html",
       "hyperkategoria": [
         "chemia"
-      ]  
+      ]
     },
     {
       "nazwa": "kofeina",
