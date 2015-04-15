@@ -3476,6 +3476,47 @@
       ]
     },
     {
+      "nazwa": "4-FMP",
+      "inna nazwa": [
+        "4-FA",
+        "4-Fluoroamfetamina",
+        "1-(4-fluorofenylo)propano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=C(C=C1)F)N"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty"
+      ],
+      "talk": "topic12611.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "4-MTA",
+      "inna nazwa": [
+        "4-Metylotioamfetamina",
+        "p-metylotioamfetamina"
+      ],
+      "wzor chemiczny": [
+        "CC(CC1=CC=C(C=C1)SC)N"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "empatogeny",
+        "stymulanty",
+        "IMAO"
+      ],
+      "neurogroove": "Inne",
+      "talk": "topic25426.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
       "nazwa": "MDA",
       "inna nazwa": [
         "3,4-metylenodioksyamfetamina",
@@ -4816,6 +4857,24 @@
       "hyperkategoria": [
         "chemia"
       ]
+      "nazwa": "3,4-DMMC",
+      "inna nazwa": [
+        "1-(3,4-dimetylofenylo)-2-(metyloamino)propan-1-on"
+      ],
+      "wzor chemiczny": [
+        "Cc1ccc(C(=O)C(C)NC)cc1C"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "neurogroove": "3-4-dmmc",
+      "talk": "dmmc-t27295.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
     },
     {
       "nazwa": "brefedron",
