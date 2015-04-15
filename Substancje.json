@@ -3948,6 +3948,25 @@
       ]
     },
     {
+      "nazwa": "2C-T-2",
+      "inna nazwa": [
+        "2-[4-(etylotio)-2,5-dimetoksyfenylo]etyloamina",
+        "2,5-dimetoksy-4-etylotiofenetylamina"
+      ],
+      "wzor chemiczny": [
+        "CCSC1=C(C=C(C(=C1)OC)CCN)OC"
+      ],
+      "kategoria": [
+        "fenyloetyloaminy",
+        "psychodeliki",
+        "2C"
+      ],
+      "talk": "topic-t28169.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
       "nazwa": "2C-I",
       "inna nazwa": [
         "4-jodo-2,5-dimetoksyfenyloetyloamina"
@@ -4155,6 +4174,25 @@
       "hyperkategoria": [
         "chemia"
       ]
+   },
+   {
+      "nazwa": "DOPR",
+      "inna nazwa": [
+        "2-amino-1-(2,5-dimetoksy-4-propylofenylo)propan"
+      ],
+      "wzor chemiczny": [
+        "O(c1cc(c(OC)cc1CC(N)C)CCC)C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy",
+        "DOx"
+      ],
+      "talk": "dopr-t42642.html",
+      "neurogroove": "Inne",
+      "hyperkategoria": [
+        "chemia"
+      ]  
     },
     {
       "nazwa": "DOI",
