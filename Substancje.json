@@ -1343,6 +1343,26 @@
       ]
     },
     {
+      "nazwa": "5-meo-mipt",
+      "inna nazwa": [
+        "5-Metoksy-N-metylo-N-izopropylotryptamina",
+        "N-[2-(5-metoksy-1H-indol-3-ilo)etylo]-N-metylopropano-2-amina"
+      ],
+      "wzor chemiczny": [
+        "CC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy",
+        "afrodyzjaki"
+      ],
+      "talk": "meo-mipt-t26213.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
       "nazwa": "LSD",
       "inna nazwa": [
         "LSD-25",
@@ -5344,6 +5364,24 @@
       "hyperkategoria": [
         "chemia"
       ]
+    },
+    {
+      "nazwa": "Desoksypipradrol",
+      "inna nazwa": [
+        "2-DPMP"
+      ],
+      "wzor chemiczny": [
+        "C1(C(C2NCCCC2)C3=CC=CC=C3)=CC=CC=C1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperydyny"
+      ],
+      "neurogroove": "2-dpmp-desoksypipradol",
+      "talk": "topic15267.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
     },
     {
       "nazwa": "kofeina",
