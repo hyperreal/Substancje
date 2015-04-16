@@ -4798,6 +4798,53 @@
       ]
     },
     {
+      "nazwa": "klefedron",
+      "inna nazwa": [
+        "4-CMC",
+        "1-(4-chlorofenylo)-2-(metylamino)propan-1-on"
+      ],
+      "odmiany": [
+        "klefedronu",
+        "klefedronowi",
+        "klefedronem",
+        "klefedronie"
+      ],
+      "wzor chemiczny": [
+        "ClC1=CC=C(C(C(C)NC)=O)C=C1.Cl"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "neurogroove": "Inne",
+      "talk": "Inne",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
+      "nazwa": "3-CMC",
+      "inna nazwa": [
+        "1-(3-chlorofenylo)-2-(metyolamino)propan-1-on"
+      ],
+      "wzor chemiczny": [
+        "CNC(C)C(=O)c1cccc(Cl)c1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "neurogroove": "Inne",
+      "talk": "Inne",
+      "hyperkategoria": [
+        "chemia"
+      ] 
+    },
+    {
       "nazwa": "metylon",
       "inna nazwa": [
         "bk-MDMA",
