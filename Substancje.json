@@ -2287,6 +2287,29 @@
       ]
     },
     {
+      "nazwa": "bromizowal",
+      "inna nazwa": [
+        "(RS)-2-bromo-N-karbamoilo-3-metylobutanoamid",
+        "bromural"
+      ],
+      "wzor chemiczny": [
+        "CC(C)C(C(=O)NC(=O)N)Br"
+      ],
+      "nazwa generyczna": [
+        "Milocardin",
+        "Bromisovalum"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"       
+      ],
+      "neurogroove": "Inne",
+      "talk": "modulatory-gaba.html",
+      "hyperkategoria": [
+        "apteka"
+      ]  
+    },
+    {
       "nazwa": "mianseryna",
       "inna nazwa": [
         "(±)-2-metylo-1,2,3,4,10,14b-heksahydrodibenzo[c,f]pirazyno[1,2-a]azepina"
