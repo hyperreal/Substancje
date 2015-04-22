@@ -1017,6 +1017,26 @@
       ]
     },
     {
+      "nazwa": "4-HO-MPT",
+      "inna nazwa": [
+        "4-hydroksy-N-metylo-N-propylotryptamina",
+        "3-{2-[metylo(propylo)amino]etylo}-1H-indol-4-ol"
+      ],
+      "wzor chemiczny": [
+        "CCCN(C)CCc2cnc1cccc(O)c12"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "mpt-t33148.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
+    },
+    {
       "nazwa": "psylocybina",
       "inna nazwa": [
         "4-PO-DMT",
