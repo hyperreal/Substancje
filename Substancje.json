@@ -3320,6 +3320,31 @@
       ]
     },
     {
+      "nazwa": "proskalina",
+      "inna nazwa": [
+        "4-propoxy-3,5-DMPEA",
+        "3,5-dimetoksy-4-n-propioksyfenetylamina"
+      ],
+      "odmiany": [
+        "proskaliny",
+        "proskalinie",
+        "proskalinę",
+        "proskaliną"
+      ],
+      "nazwa chemiczna": [
+        "COc1cc(cc(OC)c1OCCC)CCN"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "fenyloetyloaminy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "proskalina-t39022.html",
+      "hyperkategoria": [
+        "chemia"
+      ] 
+    },
+    {
       "nazwa": "TMA",
       "inna nazwa": [
         "2,4,5-trimetoksyamfetamina"
