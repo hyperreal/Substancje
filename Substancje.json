@@ -3321,6 +3321,26 @@
       ]
     },
     {
+      "nazwa": "3-MeO-PCE",
+      "inna nazwa": [
+        "N-etylo-1-(3-metoksyfenylo)cykloheksyloamina"
+      ],
+      "wzor chemiczny": [
+        "CCNC1(CCCCC1)c2cccc(OC)c2"
+      ],
+      "kategoria": [
+        "dysocjanty",
+        "antagonisty receptora NMDA",
+        "arylcykloheksaminy",
+        "piperydyny"
+      ],
+      "talk": "meo-pce-t29835.html",
+      "neurogroove": "inne",
+      "hyperkategoria": [
+        "chemia"
+      ]  
+    },
+    {
       "nazwa": "etketamina",
       "inna nazwa": [
         "N-etylonorketamina",
