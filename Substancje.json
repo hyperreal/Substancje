@@ -5481,6 +5481,23 @@
       ]
     },
     {
+      "nazwa": "Modafinil",
+      "inna nazwa": [
+        "(±)-2-(benzhydrylosulfinylo)acetamid"
+      ],
+      "wzor chemiczny": [
+        "NC(=O)CS(=O)C(C1=CC=CC=C1)C1=CC=CC=C1"
+      ],
+      "kategoria": [
+        "stymulanty"
+      ],
+      "neurogroove": "Inne",
+      "talk": "modafinil-t31728.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
+    },
+    {
       "nazwa": "kofeina",
       "inna nazwa": [
         "teina",
