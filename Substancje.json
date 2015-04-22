@@ -194,7 +194,32 @@
       "talk": "srodki-wziewne.html",
       "hyperkategoria": [
         "chemia"
-      ]  
+      ]
+    },
+    {
+      "nazwa": "Azotyn izoamylu",
+      "inna nazwa": [
+        "azotyn amylu",
+        "poppers",
+        "azotyn 3-metylobutylu"
+      ],
+      "odmiany": [
+        "poppersa",
+        "poppersem",
+        "poppersowi",
+        "poppersie"
+      ],
+      "wzor chemiczny": [
+        "CC(C)CCON=O"
+      ],
+      "kategoria": [
+        "inhalanty"
+      ],
+      "neurogroove": "inhalanty",
+      "talk": "poppers-t327.html",
+      "hyperkategoria": [
+        "chemia"
+      ]    
     },
     {
       "nazwa": "butan",
