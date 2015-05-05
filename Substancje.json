@@ -2753,6 +2753,24 @@
       ]
     },
     {
+      "nazwa": "FAB-144",
+      "inna nazwa": [
+        "(1-(5-fluoropentylo)-1H-indazolo-3-yl)(2,2,3,3-tetrametylocyklopropylo)metanon"
+      ],
+      "wzor chemiczny": [
+        "FCCCCCN1N=C(C(C2C(C)(C)C2(C)C)=O)C3=C1C=CC=C3"
+      ],
+      "kategoria": [
+        "kannabinoidy",
+        "psychodeliki"
+      ],
+      "neurogroove": "kannabinoidy",
+      "talk": "fab-144-t44405.html",
+      "hyperkategoria": [
+        "chemia"
+      ] 
+    },
+    {
       "nazwa": "THJ-2201",
       "inna nazwa": [
         "1-[(5-fluoropentylo)-1H-indazol-3-ylo]-(naftalen-1-ylo)metanon"
@@ -5440,6 +5458,31 @@
       "hyperkategoria": [
         "chemia"
       ]
+    },
+    {
+      "nazwa": "izopropylofenidat",
+      "inna nazwa": [
+        "2-fenylo-2-(piperydyn-2-ylo)octan metyloetyluu"
+      ],
+      "odmiany": [
+        "izopropylofenidatu",
+        "izopropylofenidatem",
+        "izopropylofenidatowi",
+        "izopropylofenidacie"
+      ],
+      "wzor chemiczny": [
+        "c1ccccc1C(C(=O)OC(C)C)C2CCCCN2"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "piperydyny",
+        "fenyloetyloaminy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "izopropylofenidat-t43923.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
     },
     {
       "nazwa": "4,4-DMAR",
