@@ -1411,6 +1411,25 @@
       ]
     },
     {
+          "nazwa": "5-MeO-MALT",
+      "inna nazwa": [
+        "N-(2-(5-metoksy-1H-indolo-3-yl)etylo)-N-metylprop-2-en-1-amina"
+      ],
+      "wzor chemiczny": [
+        "COC1=CC2=C(C=C1)NC=C2CCN(CC=C)CC=C"
+      ],
+      "kategoria": [
+        "psychodeliki",
+        "indole",
+        "tryptaminy"
+      ],
+      "talk": "meo-malt-t41787.html",
+      "neurogroove": "Inne",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {  
       "nazwa": "5-meo-mipt",
       "inna nazwa": [
         "5-Metoksy-N-metylo-N-izopropylotryptamina",
