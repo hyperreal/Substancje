@@ -700,6 +700,24 @@
       ]
     },
     {
+      "nazwa": "AH-7921",
+      "inna nazwa": [
+        "3,4-dichloro-N-[(1-dimetyloamino)cykloheksylometyl]benzamid"
+      ],
+      "wzor chemiczny": [
+        "ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "7921-t34691.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
+    },
+    {
       "nazwa": "metadon",
       "inna nazwa": [
         "6-(dimetyloamino)-4,4-difenyloheptan-3-on"
@@ -2012,7 +2030,7 @@
       ]
     },
     {
-      "nazwa": "",
+      "nazwa": "fenibut",
       "inna nazwa": [
         "kwas (RS)-4-amino-3-fenylomasłowy",
         "Phenibut"
@@ -2031,6 +2049,29 @@
         "modulatory GABA"
       ],
       "talk": "fenibut-watek-ogolny-t32654.html",
+      "neurogroove": "Inne",
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "klometiazol",
+      "inna nazwa": [
+        "5-(2-chloroetylo)-4-metylo-1,3-tiazol"
+      ],
+      "odmiany": [
+        "klometiazolu",
+        "klometiazolem",
+        "klometiazolowi"
+      ],
+      "wzor chemiczny": [
+        "ClCCC1=C(C)N=CS1"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"
+      ],
+      "talk": "klometiazol-watek-ogolny-t28981.html",
       "neurogroove": "Inne",
       "hyperkategoria": [
         "apteka"
@@ -4696,6 +4737,24 @@
       "hyperkategoria": [
         "chemia"
       ]
+    },
+    {
+      "nazwa": "3-FPH",
+      "inna nazwa": [
+        "3-metylo-2-(3-fluorofenylo)morfolina"
+      ],
+      "wzor chemiczny": [
+        "CC1C(C2=CC=CC=C2)OCCN1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "fph-t43233.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
     },
     {
       "nazwa": "2-FA",
