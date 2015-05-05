@@ -1987,6 +1987,56 @@
       ]
     },
     {
+      "nazwa": "metakwalon",
+      "inna nazwa": [
+        "2-metylo-3-(o-tolilo)-4(3H)-chinazolinon",
+        "Methaqualonum"
+      ],
+      "odmiany": [
+        "metakwalonu",
+        "metakwalonem",
+        "metakwalonie",
+        "metakwalonowi"
+      ],
+      "wzor chemiczny": [
+        "CC1=CC=CC=C1N2C(=NC3=CC=CC=C3C2=O)C"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"
+      ],
+      "talk": "metakwalon-watek-ogolny-t18610.html",
+      "neurogroove": "Inne",
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
+      "nazwa": "",
+      "inna nazwa": [
+        "kwas (RS)-4-amino-3-fenylomasłowy",
+        "Phenibut"
+      ],
+      "odmiany": [
+        "fenibutu",
+        "fenibutem",
+        "fenibucie",
+        "fenibutonowi"
+      ],
+      "wzor chemiczny": [
+        "O=C(O)CC(c1ccccc1)CN"
+      ],
+      "kategoria": [
+        "depresanty",
+        "modulatory GABA"
+      ],
+      "talk": "fenibut-watek-ogolny-t32654.html",
+      "neurogroove": "Inne",
+      "hyperkategoria": [
+        "apteka"
+      ]   
+    },
+    {
       "nazwa": "nitrazepam",
       "inna nazwa": [
         "5-fenylo-7-nitro-2,3-dihydro-1H-1,4-benzodiazepin-2-on",
@@ -5343,6 +5393,23 @@
       "hyperkategoria": [
         "chemia"
       ]
+    },
+    {
+      "nazwa": "MPA",
+      "inna nazwa": [
+        "1-(tiofen-2-yl)-2-metyloaminopropan",
+        "metiopropamina"
+      ],
+      "wzor chemiczny": [
+        "CNC(C)CC1=CC=CS1"
+      ],
+      "kategoria": [
+        "stymulanty"
+      ],
+      "talk": "metiopropamina-mpa-t30377.html",
+      "hyperkategoria": [
+        "chemia"
+      ]  
     },
     {
       "nazwa": "efedryna",
