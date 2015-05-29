@@ -5273,13 +5273,19 @@
       "nazwa": "etkatynon",
       "inna nazwa": [
         "etkat",
+        "etylokatynon", 
+        "eth-cat",
         "2-etyloamino-1-fenylo-propan-1-on"
       ],
       "odmiany": [
         "etkatynonu",
         "etkatynonie",
         "etkatynonem",
-        "etkatynonowi"
+        "etkatynonowi",
+        "etylokatynonu",
+        "etylokatynonie",
+        "etylokatynonem",
+        "etylokatynonowi"  
       ],
       "wzor chemiczny": [
         "CCNC(C)C(=O)C1=CC=CC=C1"
