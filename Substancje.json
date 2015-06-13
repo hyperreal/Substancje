@@ -5116,10 +5116,38 @@
         "katynony"
       ],
       "neurogroove": "Inne",
-      "talk": "Inne",
+      "talk": "cmc-klefedron-t42440.html",
       "hyperkategoria": [
         "chemia"
       ]
+    },
+    {
+      "nazwa": "metafedron",
+      "inna nazwa": [
+        "3-MMC",
+        "3-metylometkatynon".
+        "2-metylamino-1-(tol-3-ylo)propanon"
+      ],
+      "odmiany": [
+        "metafedronu",
+        "metafedronowi",
+        "metafedronem",
+        "metafedronie"
+      ],
+      "wzor chemiczny": [
+        "O=C(C(C)NC)C1=CC(C)=CC=C1.Cl"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "neurogroove": "Inne",
+      "talk": "mmc-metafedron-t35508.html",
+      "hyperkategoria": [
+        "chemia"
+      ] 
     },
     {
       "nazwa": "3-CMC",
@@ -5136,7 +5164,7 @@
         "katynony"
       ],
       "neurogroove": "Inne",
-      "talk": "Inne",
+      "talk": "cmc-metaklefedron-t42044.html",
       "hyperkategoria": [
         "chemia"
       ]
