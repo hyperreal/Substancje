@@ -3545,8 +3545,74 @@
       "hyperkategoria": [
         "chemia"
       ]
-    },
-    {
+},
+{
+  "nazwa": "2-mmc",
+  "inna nazwa": [
+    "chlorowodorek 4-metylometkatynonu"
+  ],
+  "wzor chemiczny": [
+    "O=C(C(C)NC)C1=C(C)C=CC=C1.Cl"
+  ],
+  "kategoria": [
+    "stymulanty",
+    "fenyloetyloaminy",
+    "beta-ketony",
+    "katynony"
+  ],
+  "talk": "mmc-t41522.html",
+  "hyperkategoria": [
+    "chemia"
+  ]
+  },
+{
+  "nazwa": "HEX-EN",
+  "inna nazwa": [
+    "alfa-etyloaminoheksanofenon",
+    "NEH"
+  ],
+  "wzor chemiczny": [
+    ""
+  ],
+  "kategoria": [
+    "stymulanty",
+    "fenyloetyloaminy",
+    "beta-ketony",
+    "katynony"
+  ],
+  "talk": "hex-en-t45320.html",
+  "hyperkategoria": [
+    "chemia"
+  ]
+  },
+{
+  "nazwa": "phenibut",
+  "inna nazwa": [
+    "kwas (RS)-4-amino-3-fenylomasłowy",
+    "fenibut"
+  ],
+  "odmiany": [
+  "phenibutu",
+  "phenibutem",
+  "phenibutowi",
+  "phenibucie",
+  "fenibutu",
+  "fenibutem",
+  "fenibutowi",
+  "fenibucie"
+],
+  "wzor chemiczny": [
+    "O=C(O)CC(c1ccccc1)CN"
+  ],
+  "kategoria": [
+    "Modulatory GABA"
+  ],
+  "talk": "fenibut-watek-ogolny-t32654.html",
+  "hyperkategoria": [
+    "chemia"
+  ]
+},
+{
       "nazwa": "meskalina",
       "inna nazwa": [
         "meska",
