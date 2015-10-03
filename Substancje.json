@@ -7588,6 +7588,29 @@
       "hyperkategoria": [
         "apteka"
       ]
+    },
+    {
+      "nazwa": "Acetyl-fentanyl",
+      "inna nazwa": [
+        "ac-fentanyl"
+      ],
+      "odmiany": [
+        "acetyl-fentanylu",
+        "acetyl-fentanylowi",
+        "acetyl-fentanylem"
+      ],
+      "wzór chemiczny": [
+        "CC(N(C1=CC=CC=C1)C2CCN(CCC3=CC=CC=C3)CC2)=O"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "acetyl-fentayl-t44647.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
     }
   ]
 }
