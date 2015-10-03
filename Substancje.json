@@ -7564,6 +7564,30 @@
       "hyperkategoria": [
         "natura"
       ]
+    },
+    {
+      "nazwa": "Hydrokodon",
+      "inna nazwa": [
+        "dihydrokodeinon"
+      ],
+      "odmiany": [
+        "Hydrokodonu",
+        "Hydrokodonowi",
+        "Hydrokodonem",
+        "Hydrokodonie"
+      ],
+      "wzór chemiczny": [
+        "CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(=O)CC4"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "neurogroove": "apteka",
+      "talk": "hydrokodon-t30037.html",
+      "hyperkategoria": [
+        "apteka"
+      ]
     }
   ]
 }
