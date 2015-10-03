@@ -3569,7 +3569,14 @@
       "nazwa": "HEX-EN",
       "inna nazwa": [
         "alfa-etyloaminoheksanofenon",
+        "N-ethylhexedrone"
         "NEH"
+      ],
+      "odmiany": [
+      "hex-enu",
+      "hex-enowi",
+      "hex-enem",
+      "hex-enie"
       ],
       "wzor chemiczny": [
         ""
@@ -3581,6 +3588,7 @@
         "katynony"
       ],
       "talk": "hex-en-t45320.html",
+      "neurogroove": "Inne",
       "hyperkategoria": [
         "chemia"
       ]
@@ -7566,4 +7574,7 @@
       ]
     }
   ]
+{
+
+]
 }
