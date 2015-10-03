@@ -672,7 +672,53 @@
       "hyperkategoria": [
         "chemia"
       ]
-    },
+    
+    {
+      "nazwa": "Acetyl-fentanyl",
+      "inna nazwa": [
+        "ac-fentanyl"
+      ],
+      "odmiany": [
+        "acetyl-fentanylu",
+        "acetyl-fentanylowi",
+        "acetyl-fentanylem"
+      ],
+      "wzór chemiczny": [
+        "CC(N(C1=CC=CC=C1)C2CCN(CCC3=CC=CC=C3)CC2)=O"
+      ],
+      "kategoria": [
+        "depresanty",
+        "opioidy"
+      ],
+      "neurogroove": "Inne",
+      "talk": "acetyl-fentayl-t44647.html",
+      "hyperkategoria": [
+        "chemia"
+    ]
+    {
+    "nawa": "Hydrokodon" [
+    ],
+    "inna nazwa": [
+    "dihydrokodeinon"
+    ],
+    "odmiany": [
+      "Hydrokodonu",
+      "Hydrokodonowi",
+      "Hydrokodonem",
+      "Hydrokodonie"
+    ],
+    "wzór chemiczny": [
+      "CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(=O)CC4"
+    ],
+    "kategoria": [
+      "depresanty",
+      "opioidy"
+    ],
+    "neurogroove": "apteka",
+    "talk": "hydrokodon-t30037.html",
+    "hyperkategoria": [
+        "apteka"
+    ]
     {
       "nazwa": "dihydrokodeina",
       "inna nazwa": [
@@ -7565,29 +7611,4 @@
         "natura"
       ]
     },
-    {
-    "nawa": "Hydrokodon" [
-    ],
-    "inna nazwa": [
-    "dihydrokodeinon"
-    ],
-    "odmiany": [
-      "Hydrokodonu",
-      "Hydrokodonowi",
-      "Hydrokodonem",
-      "Hydrokodonie"
-    ],
-    "wzór chemiczny": [
-      "CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(=O)CC4"
-    ],
-    "kategoria": [
-      "depresanty",
-      "opioidy"
-    ],
-    "neurogroove": "apteka",
-    "talk": "hydrokodon-t30037.html",
-    "hyperkategoria": [
-        "apteka"
-    ],
-  ]
-}
+
