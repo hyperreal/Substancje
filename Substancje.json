@@ -2594,30 +2594,39 @@
         "apteka"
       ]
     },
-    {
-      "nazwa": "wenlafaksyna",
-      "inna nazwa": [
-        "1-[2-(dimetyloamino)-1-(4-metoksyfenylo)etylo]cykloheksanol"
-      ],
-      "wzor chemiczny": [
-        "CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O"
-      ],
-      "nazwa generyczna": [
-        "Efevelon SR",
-        "Alventa",
-        "Axyven",
-        "Efectin ER",
-        "Faxigen XL",
-        "Faxolet ER",
-        "Jarvis",
-        "Lafactin",
-        "Oriven",
-        "Prefaxine",
-        "Symfaxin ER",
-        "Velafax",
-        "Velaxin",
-        "Venlectine"
-      ]
+  {
+  "nazwa": "wenlafaksyna",
+  "inna nazwa": [
+    "1-[2-(dimetyloamino)-1-(4-metoksyfenylo)etylo]cykloheksanol"
+  ],
+  "wzor chemiczny": [
+    "CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O"
+  ],
+  "nazwa generyczna": [
+    "Efevelon SR",
+    "Alventa",
+    "Axyven",
+    "Efectin ER",
+    "Faxigen XL",
+    "Faxolet ER",
+    "Jarvis",
+    "Lafactin",
+    "Oriven",
+    "Prefaxine",
+    "Symfaxin ER",
+    "Velafax",
+    "Velaxin",
+    "Venlectine"
+  ],
+  "kategoria": [
+    "antydepresanty",
+    "SNRI"
+  ],
+  "neurogroove": "Inne",
+  "talk": "wenlafaksyna-snri-tek-ogolny-t16828.html",
+  "hyperkategoria": [
+  "apteka"
+]
     },
     {
       "nazwa": "bupropion",
