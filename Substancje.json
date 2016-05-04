@@ -3964,6 +3964,26 @@
       ]
     },
     {
+  "nazwa": "5-metylo-MDA",
+  "inna nazwa": [
+    "1-(7-methyl-1,3-benzodioxol-5-yl)propan-2-amine",
+    "3-Metylo-4,5-metylenodioksyamfetamina"
+  ],
+  "wzor chemiczny": [
+    "CC(N)Cc1cc(C)c2OCOc2c1"
+  ],
+  "kategoria": [
+    "fenyloetyloaminy",
+    "empatogeny",
+    
+  ],
+  "neurogroove": "inne",
+  "talk": "metylo-mda-t27307.html",
+  "hyperkategoria": [
+    "chemia"
+   ] 
+    },
+    {
       "nazwa": "6-APB",
       "inna nazwa": [
         "benzo fury",
