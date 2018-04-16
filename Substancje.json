@@ -4982,6 +4982,13 @@
         "amfa",
         "amph",
         "wład"
+        "prad"
+        "proch"
+        "fuga"
+        "futer"
+        "bialko"
+        "feta"
+        "szpachla"
       ],
       "odmiany": [
         "amfetaminy",
@@ -4999,8 +5006,28 @@
         "włada",
         "władem",
         "władowi",
-        "władzie"
-      ],
+        "władzie",
+        "prądu",
+        "prądem",
+        "prądzie",
+        "prochem",
+        "procha",
+        "prochu",
+        "fuga",
+        "fudze",
+        "fugą",
+        "fugi",
+        "futrem",
+        "futrze",
+        "białka",
+        "białkiem",
+        "białku",
+        "fetą",
+        "fecie",
+        "fety",
+        "szpachli",
+        "szpachlą"
+        ],
       "wzor chemiczny": [
         "CC(CC1=CC=CC=C1)N"
       ],
