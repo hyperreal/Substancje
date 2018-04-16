@@ -1736,7 +1736,6 @@
       "odmiany": [
         "zolpidemu",
         "zolpidemowi",
-        "zolpidemu",
         "zolpidemem",
         "zolpidemie"
       ],
@@ -1776,7 +1775,6 @@
         "zopiklonu",
         "zopiklonem",
         "zopiklonowi",
-        "zopiklonem",
         "zopiklonie"
       ],
       "wzor chemiczny": [
@@ -1810,12 +1808,10 @@
         "baklofenu",
         "baklofenowi",
         "baklofenem",
-        "baklofenu",
         "baklofenie",
         "baclofenu",
         "baclofenowi",
         "baclofenem",
-        "baclofenu",
         "baclofenie"
       ],
       "wzor chemiczny": [
@@ -2773,7 +2769,6 @@
         "prozacu",
         "prozacem",
         "prozacowi",
-        "prozakowi",
         "prozakiem",
         "prozakowi"
       ],
@@ -3832,33 +3827,6 @@
       ]
     },
     {
-      "nazwa": "phenibut",
-      "inna nazwa": [
-        "kwas (RS)-4-amino-3-fenylomasłowy",
-        "fenibut"
-      ],
-      "odmiany": [
-        "phenibutu",
-        "phenibutem",
-        "phenibutowi",
-        "phenibucie",
-        "fenibutu",
-        "fenibutem",
-        "fenibutowi",
-        "fenibucie"
-      ],
-      "wzor chemiczny": [
-        "O=C(O)CC(c1ccccc1)CN"
-      ],
-      "kategoria": [
-        "Modulatory GABA"
-      ],
-      "talk": "fenibut-watek-ogolny-t32654.html",
-      "hyperkategoria": [
-        "chemia"
-      ]
-    },
-    {
       "nazwa": "meskalina",
       "inna nazwa": [
         "meska",
@@ -4067,7 +4035,6 @@
     {
       "nazwa": "PMA",
       "inna nazwa": [
-        "4-MA",
         "4-metoksyamfetamina",
         "UFO"
       ],
@@ -5007,14 +4974,12 @@
         "władem",
         "władowi",
         "władzie",
-        "władzie",
         "prądu",
         "prądem",
         "prądzie",
         "prochem",
         "procha",
         "prochu",
-        "fuga",
         "fudze",
         "fugą",
         "fugi",
@@ -5585,7 +5550,6 @@
       "nazwa": "dimetylon",
       "inna nazwa": [
         "bk-MDDMA",
-        "M11",
         "1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)-1-propanone"
       ],
       "odmiany": [
@@ -6087,7 +6051,6 @@
       "nazwa": "MeOPP",
       "inna nazwa": [
         "para-metoksyfenylopiperazyna",
-        "para-metoksyfenylopiperazyna",
         "pMPP",
         "4-MPP",
         "paraperazyna"
@@ -6484,13 +6447,10 @@
         "łysiczkami",
         "łysiczce",
         "łysiczek",
-        "łysiczki",
         "łysiczkach",
-        "halucynków",
         "halucynkami",
         "halucynkach",
         "halucynków",
-        "lancetki",
         "lancetek",
         "lancetkach",
         "grzybkach",
@@ -6997,7 +6957,6 @@
         "gałki",
         "gałce",
         "gałkę",
-        "gałki",
         "gały",
         "gale",
         "gałę",
@@ -7172,8 +7131,8 @@
       "nazwa": "Anadenanthera peregrina",
       "inna nazwa": [
         "Yopo",
-        "Cohoba",
-        "Parica"
+        "Niopo"
+        "Cohoba"
       ],
       "nazwa gatunkowa": [
         "Anadenanthera peregrina"
