@@ -2826,6 +2826,40 @@
         "apteka"
       ]
     },
+    {
+      "nazwa": "escitalopram",
+      "inna nazwa": [
+        "(S)-1-[3-(dimetyloamino)propylo]-1-(4-fluorofenylo)-1,3-dihydroizobenzofurano-5-karbonitryl"
+      ],
+      "wzor chemiczny": [
+        "CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F"
+      ],
+      "nazwa generyczna": [
+        "Betesda",
+        "Lexapro",
+        "Mozarin",
+        "Elicea",
+        "Escitil",
+        "Pramatis",
+        "Lenuxin ",
+        "Depralin",
+        "Aciprex",
+        "Escitalopram Pharmaswiss",
+        "Escipram",
+        "Servenon",
+        "Symescital",
+        "Nexpram"
+      ],
+      "kategoria": [
+        "antydepresanty",
+        "SSRI"
+      ],
+      "neurogroove": "Inne",
+      "talk": "escitalopram-asri-watek-ogolny-t19855-30.html",
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
   {
   "nazwa": "wenlafaksyna",
   "inna nazwa": [
