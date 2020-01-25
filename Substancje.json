@@ -2292,6 +2292,48 @@
       "hyperkategoria": [
         "apteka"
       ]
+      {
+      "nazwa": "kwetiapina",
+      "inna nazwa": [
+        "2-[2-(4-dibenzo[b,f][1,4]tiazepin-11-ylo-1-piperazynylo)etoksy]etanol", "quetiapinum"
+      ],
+      "odmiany": [
+        "kwetiapiny",
+        "kwetiapinie",
+        "kwetiapiną",
+        "kwetiapinę"
+      ],
+      "wzor chemiczny": [
+        "C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42"
+      ],
+      "nazwa generyczna": [
+        "ApoTiapina",
+        "Bonogren",
+        "Etiagen",
+        "Kefrenex",
+        "Ketilept",
+        "Ketipinor",
+        "Ketrel",
+        "Kvelux",
+        "Kventiax",
+        "Kwetaplex",
+        "Kwetax",
+        "Pinexet",
+        "Quentapil",
+        "Quetiapin NeuroPharma",
+        "Quetiapine Accord",
+        "Setinin",
+        "Symquel",
+        "Vorta"
+      ],
+      "kategoria": [
+        "dibenzotiazepiny"
+      ],
+      "neurogroove": "apteka", 
+      "talk": "kwetiapina-watek-ogolny-t23944",
+      "hyperkategoria": [
+        "apteka"
+       ]  
     },
     {
       "nazwa": "fenibut",
