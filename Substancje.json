@@ -2107,6 +2107,31 @@
       ]
     },
     {
+      "nazwa": "flualprazolam,
+      "inna nazwa": [
+        "8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine"
+      ],
+      "odmiany": [
+        "flualprazolamu",
+        "flualprazolamowi",
+        "flualprazolamem",
+        "flualprazolamie"
+      ],
+      "wzor chemiczny": [
+        "CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F"
+      ],
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "neurogroove": "apteka", 
+      "talk": "flualprazolam-rc-t59939.html",
+      "hyperkategoria": [
+        "apteka"
+      ]
+    },
+    {
       "nazwa": "lorazepam",
       "inna nazwa": [
         "lorki",
