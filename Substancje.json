@@ -2708,7 +2708,7 @@
       "inna nazwa": [
         "(RS)-2-bromo-N-karbamoilo-3-metylobutanoamid",
         "bromural"
-      ],
+      ],     
       "wzor chemiczny": [
         "CC(C)C(C(=O)NC(=O)N)Br"
       ],
@@ -2722,6 +2722,40 @@
       ],
       "neurogroove": "Inne",
       "talk": "bromizowal-watek-ogolny-t49753.html",
+      "hyperkategoria": [
+        "apteka"
+      ]
+      },
+    {
+      "nazwa": "pregabalina",
+      "inna nazwa": [
+        "pregabalinum",
+        "pregabalin"
+      ],
+      "odmiany": [
+        "pregabaliny",
+        "pregabalinie",
+        "pregabalinę",
+        "pregabaliną"
+      ], 
+      ], 
+      "wzor chemiczny": [
+        "NC[C@H](CC(C)C)CC(=O)O"
+      ],
+      "nazwa generyczna": [
+        "Lyrica",
+        "Egzysta",
+        "Pragiola",
+        "Pregabalin Accord",
+        "Pregabalin Sandoz",
+        "Pregabalin Zentiva",
+        "Pregamid"
+      ],
+      "kategoria": [
+        "modulatory GABA"
+      ],
+      "neurogroove": "Inne",
+      "talk": "pregabalina-watek-ogolny-t27181.html",
       "hyperkategoria": [
         "apteka"
       ]
