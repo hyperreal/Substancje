@@ -9,7 +9,7 @@ Serwis [hyperreal.info](http://hyperreal.info) to największe polskie
 repozytorium wiedzy dotyczącej substancji psychoaktywnych. 
 Istniejemy w internecie od 1996 roku. 
 
-Spis substancji jest podstawą między innymi `Kuchni [H]yperreala`.
+Spis substancji jest podstawą między innymi [Narkopedii`](https://narkopedia.org).
 
 ## Zaproszenie do współpracy
 
