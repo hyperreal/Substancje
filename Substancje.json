@@ -5077,9 +5077,9 @@
       ]
     },
     {
-      "nazwa": "DOM",
+      "nazwa": "STP",
       "inna nazwa": [
-        "STP",
+        "DOM",
         "2,5-Dimetoksy-4-metyloamfetamina",
         "1-(2,5-dimetoksy-4-metylofenylo)propano-2-amina"
       ],
@@ -5116,7 +5116,7 @@
         "baba jaga",
         "królewska",
         "no sleep",
-        "Śnieg",
+        "śnieg",
         "biała farba"
       ],
       "odmiany": [
@@ -5154,7 +5154,15 @@
         "fecie",
         "fety",
         "szpachli",
-        "szpachlą"
+        "szpachlą",
+        "kurzu",
+        "kurzowi",
+        "kurzem",
+        "kurzu",
+        "śniegu",
+        "śniegowi",
+        "śniegiem",
+        "śniegu",
       ],
       "wzor chemiczny": [
         "CC(CC1=CC=CC=C1)N"
@@ -5357,7 +5365,9 @@
         "alfy",
         "alfie",
         "alfą",
-        "alfę"
+        "alfę",
+        "alfą",
+        "alfo"
       ],
       "wzor chemiczny": [
         "C1CCCN1C(CCC)C(=O)c2ccccc2"
@@ -5449,7 +5459,9 @@
         "metyloefedron",
         "M-CAT",
         "mef",
-        "mefistofeles"
+        "mefistofeles",
+        "mefka",
+        "mecia"
       ],
       "odmiany": [
         "mefedronu",
@@ -5586,7 +5598,9 @@
       "nazwa": "klefedron",
       "inna nazwa": [
         "4-CMC",
-        "1-(4-chlorofenylo)-2-(metylamino)propan-1-on"
+        "1-(4-chlorofenylo)-2-(metylamino)propan-1-on",
+        "klefek",
+        "klefcio"
       ],
       "odmiany": [
         "klefedronu",
